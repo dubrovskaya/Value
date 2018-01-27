@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "browserify": "^15.2.0",
+    "coffeeify": "^3.0.1",
+    "coffeescript": "^2.1.1",
+    "express": "^4.16.2",
+    "global": "^4.3.2",
+    "horoscope": "^2.0.1",
+    "jquery": "^3.3.1",
+    "moment": "^2.20.1",
+    "nodemon": "^1.14.11",
+    "request": "^2.83.0",
+    "sqlite3": "^3.1.13",
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.11.1"
+  },
+  "devDependencies": {
+    "coffee-loader": "^0.9.0",
+    "webpack-dev-middleware": "^2.0.4"
+  },
+  "scripts": {
+    "dev": "webpack"
+  }
+}
