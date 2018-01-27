@@ -1,0 +1,25 @@
+{
+  "name": "Angus Fairhurst",
+  "image": "Angus Fairhurst.jpg",
+  "imageSize": "150 px",
+  "caption": "Angus Fairhurst",
+  "birthDate": {
+    "date": "1966-10-04T07:00:00.000Z",
+    "age": 51
+  },
+  "birthPlace": "Pembury",
+  "deathDate": {
+    "date": "2008-03-29T07:00:00.000Z",
+    "age": 41
+  },
+  "deathPlace": "Bridge of Orchy",
+  "nationality": "British",
+  "field": "Conceptual art",
+  "training": [
+    "Kent Institute of Art & Design",
+    "Goldsmiths, University of London"
+  ],
+  "movement": "Young British Artists",
+  "summary": "Angus Fairhurst (4 October 1966 – 29 March 2008) was an English artist working in installation, photography and video. He was one of the Young British Artists (YBAs).",
+  "sign": "Libra"
+}

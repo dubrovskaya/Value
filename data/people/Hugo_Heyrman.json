@@ -1,0 +1,21 @@
+{
+  "bgcolour": "#6495ED",
+  "name": "Hugo Heyrman",
+  "image": "Drhugoheyrman.jpg",
+  "imagesize": "300px",
+  "caption": "Caffè Florian",
+  "birthDate": {
+    "date": "1942-12-20T08:00:00.000Z",
+    "age": 75
+  },
+  "birthPlace": "Zwijndrecht, Belgium",
+  "nationality": "Belgium",
+  "field": [
+    "drawing",
+    "photography",
+    "film",
+    "digital media"
+  ],
+  "summary": "Hugo Heyrman (born December 20, 1942) known by his artist name Dr. Hugo Heyrman, is a leading Belgian painter, filmmaker, internet pioneer, synesthesia and new media researcher.",
+  "sign": "Sagittarius"
+}

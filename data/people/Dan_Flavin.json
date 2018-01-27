@@ -1,0 +1,22 @@
+{
+  "bgcolour": "#6495ED",
+  "name": "Dan Flavin",
+  "birthDate": {
+    "date": "1933-04-01T07:00:00.000Z",
+    "age": 84
+  },
+  "birthPlace": "Jamaica, New York",
+  "deathDate": {
+    "date": "1996-11-29T08:00:00.000Z",
+    "age": 63
+  },
+  "deathPlace": "Riverhead, New York",
+  "nationality": "United States",
+  "field": [
+    "Installation art",
+    "Sculpture"
+  ],
+  "training": "Columbia University",
+  "summary": "Dan Flavin (April 1, 1933 – November 29, 1996) was an American minimalist artist famous for creating sculptural objects and installations from commercially available fluorescent light fixtures.",
+  "sign": "Aries"
+}

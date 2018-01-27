@@ -1,0 +1,31 @@
+{
+  "bgcolour": "#6495ED",
+  "name": "Sol LeWitt",
+  "image": "Sol LeWitt.jpg",
+  "caption": "Sol LeWitt, c.1965",
+  "birthDate": {
+    "date": "1928-09-09T07:00:00.000Z",
+    "age": 89
+  },
+  "birthPlace": "Hartford, Connecticut",
+  "deathDate": {
+    "date": "2007-04-08T07:00:00.000Z",
+    "age": 78
+  },
+  "deathPlace": [
+    "New York City",
+    "New York (state)"
+  ],
+  "nationality": "United States",
+  "field": [
+    "Painting",
+    "Drawing"
+  ],
+  "training": [
+    "Syracuse University",
+    "School of Visual Arts"
+  ],
+  "movement": "Conceptual Art",
+  "summary": "Solomon \"Sol\" LeWitt (September 9, 1928 – April 8, 2007) was an American artist linked to various movements, including Conceptual art and Minimalism.\nLeWitt came to fame in the late 1960s with his wall drawings and \"structures\" (a term he preferred instead of \"sculptures\") but was prolific in a wide range of media including drawing, printmaking, photography, painting, installation and artist's books. He has been the subject of hundreds of solo exhibitions in museums and galleries around the world since 1965.",
+  "sign": "Virgo"
+}

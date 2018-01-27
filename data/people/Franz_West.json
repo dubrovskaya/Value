@@ -1,0 +1,29 @@
+{
+  "image": "West,Franz-museum-ludwig-koeln-111209-web.jpg",
+  "bgcolour": "#6495ED",
+  "name": "Franz West",
+  "imagesize": "240px",
+  "caption": "Franz West (2009)",
+  "birthDate": {
+    "date": "1947-02-16T08:00:00.000Z",
+    "age": 70
+  },
+  "birthPlace": "Vienna, Austria",
+  "deathDate": {
+    "date": "2012-07-26T07:00:00.000Z",
+    "age": 65
+  },
+  "deathPlace": "Vienna, Austria",
+  "field": [
+    "Sculpture",
+    "Painting",
+    "Drawing"
+  ],
+  "training": "Academy of Fine Arts Vienna",
+  "movement": "Contemporary art",
+  "spouse": "Tamuna Sirbiladze",
+  "works": "The Ego and the Id",
+  "awards": "Generali Foundation",
+  "summary": "Franz West (16 February 1947 – 25 July 2012) was an Austrian artist.",
+  "sign": "Aquarius"
+}

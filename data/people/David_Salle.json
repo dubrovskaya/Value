@@ -1,0 +1,32 @@
+{
+  "bgcolour": "#6495ED",
+  "name": "David Salle",
+  "image": "David_Salle_portrait_by_Robert_Wright.jpg",
+  "caption": "Portrait of David Salle by Robert Wright",
+  "birthDate": "birth year and age",
+  "birthPlace": "Norman, Oklahoma",
+  "nationality": [
+    "flagicon",
+    "United States"
+  ],
+  "field": [
+    "Painting",
+    "Printmaking",
+    "Set Design",
+    "Photography",
+    "Sculpture",
+    "Film"
+  ],
+  "training": [
+    "California Institute of the Arts",
+    "Valencia, California"
+  ],
+  "movement": [
+    "Contemporary art",
+    "Postmodernism",
+    "Neo-expressionism"
+  ],
+  "awards": "Guggenheim Fellowship",
+  "summary": "David Salle (born 1952) is an American painter, printmaker, and stage designer who helped define postmodern sensibility. Salle was born in Norman, Oklahoma. He earned a BFA and MFA from the California Institute of the Arts, Valencia, California where he studied with John Baldessari. Salle’s work first came to public attention in New York in the early 1980s.",
+  "sign": "n/a"
+}

@@ -1,0 +1,26 @@
+{
+  "bgcolour": "#76A8FF",
+  "name": "Larry Zox",
+  "birthDate": {
+    "date": "1937-05-31T07:00:00.000Z",
+    "age": 80
+  },
+  "birthPlace": "Des Moines, Iowa",
+  "deathDate": {
+    "date": "2006-12-16T08:00:00.000Z",
+    "age": 69
+  },
+  "deathPlace": "Colchester, Connecticut",
+  "nationality": "United States",
+  "field": [
+    "Abstract art",
+    "colorist"
+  ],
+  "movement": [
+    "Abstract Expressionism",
+    "Color Field painting"
+  ],
+  "awards": "Guggenheim Fellowship",
+  "summary": "Lawrence \"Larry\" Zox (May 31, 1937 – December 16, 2006) was an American painter and printmaker who is classified as an Abstract expressionist, Color Field painter and a Lyrical Abstractionist, although he did not readily use those categories for his work.",
+  "sign": "Gemini"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Eric Fischl",
+  "image": "Eric Fischl 3.jpg",
+  "caption": "Fischl, 2006",
+  "birthDate": {
+    "date": "1948-03-09T08:00:00.000Z",
+    "age": 69
+  },
+  "birthPlace": "New York City",
+  "nationality": "United States",
+  "field": [
+    "Painting",
+    "Sculpture",
+    "printmaking"
+  ],
+  "training": "California Institute of the Arts",
+  "summary": "Eric Fischl (born March 9, 1948) is an American painter, sculptor, printmaker and draughtsman. His wife is painter April Gornik.",
+  "sign": "Pisces"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Chris Burden",
+  "birthDate": {
+    "date": "1946-04-11T07:00:00.000Z",
+    "age": 71
+  },
+  "birthPlace": "Boston",
+  "deathDate": {
+    "date": "2015-05-10T07:00:00.000Z",
+    "age": 69
+  },
+  "deathPlace": [
+    "Topanga Canyon",
+    "California"
+  ],
+  "spouse": "Nancy Rubins",
+  "field": [
+    "Performance art",
+    "installation art",
+    "sculpture"
+  ],
+  "training": [
+    "Pomona College",
+    "University of California, Irvine"
+  ],
+  "summary": "Christopher Lee \"Chris\" Burden (April 11, 1946 – May 10, 2015) was an American artist working in performance, sculpture and installation art.",
+  "sign": "Aries"
+}

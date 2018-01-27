@@ -1,0 +1,19 @@
+{
+  "name": "Gordon Matta-Clark",
+  "occupation": "Artist",
+  "birthName": "Gordon Roberto Echaurren Matta",
+  "birthDate": {
+    "date": "1943-06-22T07:00:00.000Z",
+    "age": 74
+  },
+  "birthPlace": "New York, New York",
+  "deathDate": {
+    "date": "1978-08-27T07:00:00.000Z",
+    "age": 35
+  },
+  "deathPlace": "New York, New York",
+  "spouse": "Jane Crawford (1977-1978; his death)",
+  "nationality": "United States",
+  "summary": "Gordon Matta-Clark (born Gordon Roberto Echaurren Matta; June 22, 1943 – August 27, 1978) was an American artist best known for his site-specific artworks he made in the 1970s.",
+  "sign": "Cancer"
+}

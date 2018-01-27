@@ -1,0 +1,22 @@
+{
+  "bgcolour": "#6495ED",
+  "name": "Robert Mangold",
+  "image": "Robert Mangold.jpg",
+  "imagesize": "300px",
+  "caption": "Portrait of Robert Mangold",
+  "birthDate": {
+    "date": "1937-10-12T07:00:00.000Z",
+    "age": 80
+  },
+  "birthPlace": "North Tonawanda, New York",
+  "nationality": "United States",
+  "field": [
+    "Painting",
+    "Printmaking"
+  ],
+  "movement": "Minimal Art",
+  "spouse": "Sylvia Plimack Mangold",
+  "children": "James Mangold",
+  "summary": "Robert Mangold (born October 12, 1937) is an American minimalist artist.",
+  "sign": "Libra"
+}

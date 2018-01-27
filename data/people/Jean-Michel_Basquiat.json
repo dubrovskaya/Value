@@ -1,0 +1,28 @@
+{
+  "name": "Jean-Michel Basquiat",
+  "image": "Basquiat.jpg",
+  "imageSize": "220px",
+  "caption": "Jean-Michel Basquiat",
+  "birthDate": {
+    "date": "1960-12-22T08:00:00.000Z",
+    "age": 57
+  },
+  "birthPlace": "Brooklyn",
+  "deathDate": {
+    "date": "1988-08-12T07:00:00.000Z",
+    "age": 27
+  },
+  "deathPlace": "Manhattan",
+  "deathCause": "Drug overdose",
+  "style": [
+    "Abstract art",
+    "Figurative art"
+  ],
+  "movement": [
+    "Neo-expressionism",
+    "primitivism"
+  ],
+  "website": "http://basquiat.com/",
+  "summary": "Jean-Michel Basquiat (French: [ʒɑ̃ miʃɛl baskija]; December 22, 1960 – August 12, 1988) was an American artist. Basquiat first achieved fame as part of SAMO, an informal graffiti duo who wrote enigmatic epigrams in the cultural hotbed of the Lower East Side of Manhattan during the late 1970s where the hip hop, punk, and street art movements had coalesced. By the 1980s, he was exhibiting his neo-expressionist paintings in galleries and museums internationally. The Whitney Museum of American Art held a retrospective of his art in 1992.\nBasquiat's art focused on \"suggestive dichotomies\", such as wealth versus poverty, integration versus segregation, and inner versus outer experience. He appropriated poetry, drawing, and painting, and married text and image, abstraction, figuration, and historical information mixed with contemporary critique.\nBasquiat used social commentary in his paintings as a \"springboard to deeper truths about the individual\", as well as attacks on power structures and systems of racism, while his poetics were acutely political and direct in their criticism of colonialism and support for class struggle. He died of a heroin overdose at his art studio at age 27.\nOn May 18, 2017, at a Sotheby's auction, Basquiat's 1982 painting, also Untitled, created with oil stick and spray paint and depicting a skull, set a new record high for any U.S. artist at auction, selling for $110,500,000.",
+  "sign": "Capricorn"
+}

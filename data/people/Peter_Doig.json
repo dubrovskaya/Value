@@ -1,0 +1,15 @@
+{
+  "name": "Peter Doig",
+  "birthDate": {
+    "date": "1959-04-17T07:00:00.000Z",
+    "age": 58
+  },
+  "birthPlace": "Edinburgh",
+  "field": "Painting",
+  "training": [
+    "Wimbledon School of Art",
+    "Saint Martin's School of Art"
+  ],
+  "summary": "Peter Doig ( DOYG; born 17 April 1959) is a Scottish painter. One of the most renowned living figurative painters, he has settled in Trinidad since 2002. In 2007, his painting White Canoe sold at Sotheby's for $11.3 million, then an auction record for a living European artist. In February 2013, his painting, The Architect's Home in the Ravine, sold for $12 million at a London auction. Art critic Jonathan Jones said about him: \"Amid all the nonsense, impostors, rhetorical bullshit and sheer trash that pass for art in the 21st century, Doig is a jewel of genuine imagination, sincere work and humble creativity.\"",
+  "sign": "Aries"
+}

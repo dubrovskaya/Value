@@ -1,0 +1,18 @@
+{
+  "name": "James Turrell",
+  "caption": "James Turrell at the site of the Roden Crater.",
+  "birthDate": {
+    "date": "1943-05-06T07:00:00.000Z",
+    "age": 74
+  },
+  "birthPlace": "Los Angeles",
+  "nationality": "American",
+  "field": "Installation art",
+  "works": [
+    "Roden Crater",
+    "Acton (Turrell)"
+  ],
+  "website": "url",
+  "summary": "James Turrell (born May 6, 1943) is an American artist primarily concerned with light and space. Turrell was a MacArthur Fellow in 1984. Turrell is best known for his work in progress, Roden Crater, a natural cinder cone crater located outside Flagstaff, Arizona that he is turning into a massive naked-eye observatory.",
+  "sign": "Taurus"
+}

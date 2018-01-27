@@ -1,0 +1,16 @@
+{
+  "bgcolour": "#EEDD82",
+  "name": "Gerard Caris",
+  "image": "Gerard_caris_1991.JPG",
+  "caption": "Gerard Caris",
+  "birthDate": {
+    "date": "1925-03-20T07:00:00.000Z",
+    "age": 92
+  },
+  "birthPlace": "Maastricht, the Netherlands",
+  "nationality": "Netherlands",
+  "field": "Visual artist",
+  "training": "University of California, Berkeley",
+  "summary": "Gerard Caris (born 20 March 1925) is a Dutch sculptor and artist who has pursued a single motif throughout the course of his artistic career, the pentagon.",
+  "sign": "Pisces"
+}

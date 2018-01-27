@@ -1,0 +1,20 @@
+{
+  "name": "Mike Kelley",
+  "birthDate": "1954-10-27T07:00:00.000Z",
+  "birthPlace": "Wayne, Michigan",
+  "deathDate": {
+    "date": "2012-01-31T08:00:00.000Z",
+    "age": 57
+  },
+  "deathPlace": "South Pasadena, California",
+  "almaMater": "University of Michigan",
+  "field": "sculpture, installation, performance",
+  "awards": [
+    " awards ",
+    "awards ",
+    "awards "
+  ],
+  "website": "[http://www.mikekelley.com/ mikekelley.com]",
+  "summary": "Michael \"Mike\" Kelley (27 October 1954 in Wayne, Michigan  – c. 31 January 2012 in South Pasadena) was an American artist. His work involved found objects, textile banners, drawings, assemblage, collage, performance and video. He often worked collaboratively and had produced projects with artists Paul McCarthy, Tony Oursler and John Miller. Writing in The New York Times, in 2012, Holland Cotter described the artist as \"one of the most influential American artists of the past quarter century and a pungent commentator on American class, popular culture and youthful rebellion.\"",
+  "sign": "n/a"
+}

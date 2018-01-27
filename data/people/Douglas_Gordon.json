@@ -1,0 +1,23 @@
+{
+  "name": "Douglas Gordon",
+  "image": "Douglas_gordon_2013.jpg",
+  "caption": "Tel Aviv Museum of Art",
+  "birthDate": {
+    "date": "1966-09-20T07:00:00.000Z",
+    "age": 51
+  },
+  "birthPlace": "Glasgow",
+  "nationality": "British",
+  "field": "Video art",
+  "training": [
+    "Glasgow School of Art",
+    "Glasgow",
+    "Slade School of Fine Art",
+    "London"
+  ],
+  "movement": "Young British Artists",
+  "works": "24 Hour Psycho",
+  "awards": "Hugo Boss Prize",
+  "summary": "Douglas Gordon (born 20 September 1966) is a Scottish artist. He won the Turner Prize in 1996, the Premio 2000 at the 47th Venice Biennale in 1997 and the Hugo Boss Prize in 1998. He lives and works in Berlin, Germany.",
+  "sign": "Virgo"
+}

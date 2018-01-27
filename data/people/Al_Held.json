@@ -1,0 +1,28 @@
+{
+  "bgcolour": "#76A8FF",
+  "name": "Al Held",
+  "birthDate": {
+    "date": "1928-10-12T07:00:00.000Z",
+    "age": 89
+  },
+  "birthPlace": "Brooklyn, New York",
+  "deathDate": {
+    "date": "2005-07-27T07:00:00.000Z",
+    "age": 76
+  },
+  "deathPlace": "Todi",
+  "nationality": "American",
+  "field": "Painting",
+  "training": [
+    "Académie de la Grande Chaumière",
+    "Paris"
+  ],
+  "movement": [
+    "Abstract expressionism",
+    "Post-Painterly Abstraction",
+    "Geometric abstraction",
+    "Hard-edge painting"
+  ],
+  "summary": "Al Held (October 12, 1928 – July 27, 2005) was an American Abstract expressionist painter. He was particularly well known for his large scale Hard-edge paintings. As an artist, multiple stylistic changes occurred throughout his career, however, none of these occurred at the same time as any popular emerging style or acted against a particular art form. In the 1950s his style reflected the abstract expressionist tone and then transitioned to a geometric style in the 60s. During the 1980s there was a shift into acrylic painting that emphasized bright geometric space that’s deepness reflected infinity. From 1962 to 1980 he was a professor of art at Yale University.",
+  "sign": "Libra"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Howard Hodgkin",
+  "image": "Howard Hodgkin DMarshall1987.jpg",
+  "birthName": "Gordon Howard Eliot Hodgkin",
+  "birthDate": {
+    "date": "1932-08-06T07:00:00.000Z",
+    "age": 85
+  },
+  "birthPlace": "Hammersmith",
+  "deathDate": {
+    "date": "2017-03-09T08:00:00.000Z",
+    "age": 84
+  },
+  "deathPlace": "London, England",
+  "nationality": "British",
+  "field": [
+    "Painting",
+    "Printmaking"
+  ],
+  "training": [
+    "Camberwell College of Arts",
+    "Bath Academy of Art"
+  ],
+  "awards": "Turner Prize",
+  "website": {
+    "protocol": "http",
+    "hostname": "www.howard-hodgkin.com",
+    "path": "/",
+    "title": "Official site",
+    "url": "http://www.howard-hodgkin.com/"
+  },
+  "summary": "Sir Gordon Howard Eliot Hodgkin  (6 August 1932 – 9 March 2017) was a British painter and printmaker. His work is most often associated with abstraction.",
+  "sign": "Leo"
+}

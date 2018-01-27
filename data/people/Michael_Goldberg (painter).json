@@ -1,0 +1,19 @@
+{
+  "bgcolour": "#6495ED",
+  "name": "Michael Goldberg",
+  "birthDate": {
+    "date": "1924-12-24T08:00:00.000Z",
+    "age": 93
+  },
+  "birthPlace": "Bronx, New York",
+  "deathDate": {
+    "date": "2007-12-31T08:00:00.000Z",
+    "age": 83
+  },
+  "nationality": "American",
+  "field": "Painting",
+  "training": "Art Students League of New York",
+  "movement": "Abstract expressionism",
+  "summary": "Michael Goldberg (December 24, 1924 – December 31, 2007) was an American abstract expressionist painter and teacher known for his gestural action paintings, abstractions and still-life paintings. A retrospective show, \"Abstaction Over Time: The Paintings of Michael Goldberg\", is showing at MOCA Jacksonville in Florida from 9/21/13 to 1/5/14. His work was seen in September 2007 in a solo exhibition at Knoedler & Company in New York City, as well as several exhibitions at Manny Silverman Gallery in Los Angeles. Additionally, a survey of Goldberg's work is exhibited at the University Art Museum at California State University, Long Beach since September 2010.",
+  "sign": "Capricorn"
+}

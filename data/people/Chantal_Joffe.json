@@ -1,0 +1,21 @@
+{
+  "bgcolour": "#6495ED",
+  "name": "Chantal Joffe",
+  "caption": "deletable image-caption",
+  "birthDate": {
+    "date": "1969-10-05T07:00:00.000Z",
+    "age": 48
+  },
+  "birthPlace": "St. Albans (town), Vermont",
+  "nationality": "British",
+  "field": "Painting",
+  "training": [
+    "Camberwell College of Arts",
+    "Glasgow School of Art",
+    "Royal College of Art"
+  ],
+  "influencedBy": "Diane Arbus",
+  "awards": "Delfina Studio Trust Award (1994–96),Abbey Scholarship (1998–99),Charles Wollaston Award (2006)",
+  "summary": "Chantal Joffe  (born 5 October 1969) is an English artist based in London. Her often large-scale paintings generally depict women and children. In 2006, she received the prestigious Charles Wollaston Award from the Royal Academy.",
+  "sign": "Libra"
+}

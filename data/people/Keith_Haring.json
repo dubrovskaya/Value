@@ -1,0 +1,30 @@
+{
+  "name": "Keith Haring",
+  "image": "Keith Haring.jpg",
+  "caption": "Andy Warhol",
+  "birthName": "Keith Allen Haring",
+  "birthDate": {
+    "date": "1958-05-04T07:00:00.000Z",
+    "age": 59
+  },
+  "birthPlace": "Reading, Pennsylvania",
+  "deathDate": {
+    "date": "1990-02-16T08:00:00.000Z",
+    "age": 31
+  },
+  "deathPlace": [
+    "New York City",
+    "New York (state)"
+  ],
+  "field": [
+    "Pop art",
+    "street art"
+  ],
+  "training": "School of Visual Arts",
+  "movement": "AIDS awareness",
+  "works": "\"Crack is Wack\"",
+  "awards": "clarify",
+  "website": "Official URL",
+  "summary": "Keith Allen Haring (May 4, 1958 – February 16, 1990) was an American artist whose pop art and graffiti-like work grew out of the New York City street culture of the 1980s.\nHaring's work grew to iconic popularity from his exuberant spontaneous drawings in New York City subways – chalk outlines on blank black advertising-space backgrounds – depicting radiant babies, flying saucers, and deified dogs. After public recognition he created larger scale works such as colorful murals, many of them commissioned. His imagery has become a widely recognized visual language. His later work often addressed political and societal themes – especially homosexuality and AIDS – through his own unique iconography.",
+  "sign": "Taurus"
+}

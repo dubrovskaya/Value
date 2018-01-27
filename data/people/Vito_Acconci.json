@@ -1,0 +1,28 @@
+{
+  "name": "Vito Acconci",
+  "image": "Vito1973.jpg",
+  "caption": "Acconci in 1973",
+  "birthName": "Vito Hannibal Acconci",
+  "birthDate": {
+    "date": "1940-01-24T08:00:00.000Z",
+    "age": 78
+  },
+  "birthPlace": "The Bronx",
+  "deathDate": {
+    "date": "2017-04-27T07:00:00.000Z",
+    "age": 77
+  },
+  "deathPlace": "Manhattan",
+  "nationality": "American",
+  "knownFor": [
+    "Landscape architect",
+    "Installation art"
+  ],
+  "education": [
+    "College of the Holy Cross",
+    "University of Iowa"
+  ],
+  "website": "www.acconci.com",
+  "summary": "Vito Hannibal Acconci (January 24, 1940 – April 27, 2017) was an American designer, landscape architect, performance and installation artist.",
+  "sign": "Aquarius"
+}

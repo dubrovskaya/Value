@@ -1,0 +1,20 @@
+{
+  "name": "Dale Chihuly",
+  "image": "DaleChihulyatPilchuck.jpg",
+  "caption": "Chihuly in 1992",
+  "birthName": "Dale Patrick Chihuly",
+  "birthDate": {
+    "date": "1941-09-20T07:00:00.000Z",
+    "age": 76
+  },
+  "birthPlace": "Tacoma, Washington",
+  "nationality": "American",
+  "field": "Glass art",
+  "education": [
+    "University of Wisconsin–Madison",
+    "Rhode Island School of Design"
+  ],
+  "spouse": "marriage",
+  "summary": "Dale Chihuly  (born September 20, 1941) is an American glass sculptor and entrepreneur. His works are considered to possess outstanding artistic merit in the field of blown glass, \"moving it into the realm of large-scale sculpture.\" The technical difficulties of working with glass forms are considerable, yet Chihuly uses it as the primary medium for installations and environmental artwork.",
+  "sign": "Virgo"
+}

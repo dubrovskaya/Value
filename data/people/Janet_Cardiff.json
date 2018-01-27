@@ -1,0 +1,31 @@
+{
+  "name": "Janet Cardiff",
+  "image": "JanetCardiff Berlin2009.jpg",
+  "imageSize": "230px",
+  "caption": [
+    "Berlin",
+    "Germany"
+  ],
+  "birthDate": {
+    "date": "1957-03-15T07:00:00.000Z",
+    "age": 60
+  },
+  "birthPlace": "Brussels, Ontario",
+  "module": "Infobox person",
+  "child": true,
+  "yearsActive": "1995&ndash;present",
+  "nationality": "Canadian",
+  "field": [
+    "sound art",
+    "installation art"
+  ],
+  "training": [
+    "Queen's University",
+    "University of Alberta"
+  ],
+  "works": "George Bures Miller",
+  "awards": "National Gallery of Canada",
+  "spouse": "George Bures Miller",
+  "summary": "Janet Cardiff (born March 15, 1957) is a Canadian artist who works chiefly with sound and sound installations; especially a form she calls audio walks. She works in collaboration with her husband and partner George Bures Miller. Cardiff and Miller currently live and work in Berlin. Janet Cardiff first gained international recognition in the art world for her audio walks in 1995.",
+  "sign": "Pisces"
+}

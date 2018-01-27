@@ -1,0 +1,18 @@
+{
+  "name": "Robert Morris",
+  "birthDate": {
+    "date": "1931-02-09T08:00:00.000Z",
+    "age": 87
+  },
+  "birthPlace": "Kansas City, Missouri",
+  "field": "Sculpture",
+  "training": [
+    "University of Kansas",
+    "Kansas City Art Institute",
+    "Reed College",
+    "Hunter College"
+  ],
+  "movement": "Minimalism",
+  "summary": "Robert Morris (born February 9, 1931 in Kansas City, Missouri) is an American sculptor, conceptual artist and writer. He is regarded as one of the most prominent theorists of Minimalism along with Donald Judd but he has also made important contributions to the development of performance art, minimalism, land art, the Process Art movement and installation art. Morris lives and works in New York. In 2013 as part of the October Files, MIT Press published a volume on Morris, examining his work and influence, edited by Julia Bryan-Wilson.",
+  "sign": "Aquarius"
+}

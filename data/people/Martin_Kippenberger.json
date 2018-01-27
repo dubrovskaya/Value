@@ -1,0 +1,23 @@
+{
+  "name": "Martin Kippenberger",
+  "birthDate": {
+    "date": "1953-02-25T08:00:00.000Z",
+    "age": 64
+  },
+  "birthPlace": "Dortmund",
+  "deathDate": {
+    "date": "1997-03-07T08:00:00.000Z",
+    "age": 44
+  },
+  "deathPlace": [
+    "Vienna",
+    "Austria"
+  ],
+  "nationality": "German",
+  "field": [
+    "Conceptual art",
+    "installation art"
+  ],
+  "summary": "Martin Kippenberger (25 February 1953 – 7 March 1997) was a German artist and sculptor known for his extremely prolific output in a wide range of styles and media, superfiction as well as his provocative, jocular and hard-drinking public persona.\nKippenberger was \"widely regarded as one of the most talented German artists of his generation,\" according to Roberta Smith of the New York Times. He was at the center of a generation of German enfants terribles including Albert Oehlen, Markus Oehlen, Werner Büttner, Georg Herold, Dieter Göls, and Günther Förg.",
+  "sign": "Pisces"
+}

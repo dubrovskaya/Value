@@ -1,0 +1,19 @@
+{
+  "name": "Will Barnet",
+  "birthDate": {
+    "date": "1911-05-25T07:00:00.000Z",
+    "age": 106
+  },
+  "birthPlace": "Beverly, Massachusetts",
+  "deathDate": {
+    "date": "2012-11-13T08:00:00.000Z",
+    "age": 101
+  },
+  "deathPlace": "New York City",
+  "nationality": "American",
+  "field": "Painting, printmaking",
+  "training": "School of the Museum of Fine Arts, Boston",
+  "awards": "File:Ordre des Arts et des Lettres Chevalier ribbon.svg",
+  "summary": "Will Barnet (May 25, 1911 – November 13, 2012) was an American artist known for his paintings, watercolors, drawings, and prints depicting the human figure and animals, both in casual scenes of daily life and in transcendent dreamlike worlds.",
+  "sign": "Gemini"
+}

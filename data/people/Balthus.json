@@ -1,0 +1,28 @@
+{
+  "name": "Balthus",
+  "image": "BalthusFace.jpg",
+  "imageSize": "200px",
+  "caption": "Damian Pettigrew",
+  "birthName": "Balthasar Klossowski",
+  "nativeName": "Balthasar Klossowski de Rola",
+  "birthDate": {
+    "date": "1908-02-29T08:00:00.000Z",
+    "age": 109
+  },
+  "birthPlace": "Paris, France",
+  "deathDate": {
+    "date": "2001-02-18T08:00:00.000Z",
+    "age": 93
+  },
+  "deathPlace": "Rossinière",
+  "nationality": "French",
+  "field": [
+    "Painting",
+    "drawing",
+    "watercolor"
+  ],
+  "works": "Nude Before a Mirror",
+  "awards": "Praemium Imperiale",
+  "summary": "Balthasar Klossowski de Rola (February 29, 1908 – February 18, 2001), known as Balthus, was a Polish-French modern artist. He is known for his erotically charged images of pubescent girls, but also for the refined, dreamlike quality of his imagery.\nThroughout his career, Balthus rejected the usual conventions of the art world. He insisted that his paintings should be seen and not read about, and he resisted any attempts made to build a biographical profile. A telegram sent to the Tate Gallery as it prepared for its 1968 retrospective of his works read: \"No Biographical details. Begin: Balthus is a painter of whom nothing is known. Now let us look at the pictures. Regards. B\".",
+  "sign": "Pisces"
+}

@@ -1,0 +1,31 @@
+{
+  "bgcolour": "#6495ED",
+  "name": "José Bernal",
+  "image": "José Bernal, Santa Clara, Cuba, 1952.jpg",
+  "imagesize": "200px",
+  "caption": "José Bernal in 1952",
+  "birthDate": {
+    "date": "1925-01-08T08:00:00.000Z",
+    "age": 93
+  },
+  "birthPlace": "Villa Clara Province",
+  "deathDate": {
+    "date": "2010-04-19T07:00:00.000Z",
+    "age": 85
+  },
+  "deathPlace": "Skokie, Illinois",
+  "nationality": "Cuban-American",
+  "field": [
+    "Painting",
+    "Collage",
+    "Assemblage (art)"
+  ],
+  "training": [
+    "Cuba",
+    "Master of Fine Arts",
+    "School of the Art Institute of Chicago"
+  ],
+  "movement": "Postmodernism",
+  "summary": "José Antonio Severino Bernal Muñoz (January 8, 1925 – April 19, 2010, known by his first name and by his paternal family name José Bernal) was a Cuban-American artist, born in Santa Clara, Cuba, in the former province of Las Villas (now Villa Clara) and became a naturalized U.S.A. citizen in 1980.\nBernal's aesthetics stemmed from his Cuban birth and the experience of exile and renewal. His art has been described as modernist, abstract, and expressionist. The term postmodernist also may be applied to Bernal's diverse and complex body of work, specifically as he rejected the notion of the new in art, a characteristic imbued in postmodern theory.",
+  "sign": "Capricorn"
+}

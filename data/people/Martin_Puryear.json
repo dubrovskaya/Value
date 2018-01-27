@@ -1,0 +1,19 @@
+{
+  "bgcolour": "#6495ED",
+  "name": "Martin Puryear",
+  "birthDate": {
+    "date": "1941-05-23T07:00:00.000Z",
+    "age": 76
+  },
+  "birthPlace": "Washington D.C.",
+  "nationality": "United States",
+  "field": "Sculpture",
+  "training": "The Catholic University of America",
+  "awards": [
+    "Guggenheim Fellowship",
+    "MacArthur Foundation Fellowship",
+    "Rome Prize"
+  ],
+  "summary": "Martin Puryear (born May 23, 1941) is an American artist known for his devotion to traditional craft. Working in wood and bronze, among other media, his reductive technique and meditative approach challenge the physical and poetic boundaries of his materials.",
+  "sign": "Gemini"
+}

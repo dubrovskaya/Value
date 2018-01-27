@@ -1,0 +1,12 @@
+{
+  "birthDate": "1939-12-05T08:00:00.000Z",
+  "deathDate": {
+    "date": "2018-01-20T08:00:00.000Z",
+    "age": 78
+  },
+  "nationality": "American",
+  "knownFor": "Abstract painting",
+  "awards": "National Medal of Arts",
+  "summary": "Jack Whitten (December 5, 1939 – January 20, 2018) was an American abstract painter. In 2016, he was awarded a National Medal of Arts.",
+  "sign": "n/a"
+}

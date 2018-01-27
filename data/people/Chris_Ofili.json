@@ -1,0 +1,18 @@
+{
+  "birthName": "Christopher Ofili",
+  "birthDate": {
+    "date": "1968-10-10T07:00:00.000Z",
+    "age": 49
+  },
+  "birthPlace": "Manchester",
+  "nationality": "British",
+  "awards": "Turner Prize",
+  "field": "Painting",
+  "training": [
+    "Chelsea College of Art and Design",
+    "Royal College of Art"
+  ],
+  "works": "The Upper Room (paintings)",
+  "summary": "Christopher Ofili, CBE (born 10 October 1968) is a British Turner Prize-winning painter who is best known for his paintings incorporating elephant dung. He was one of the Young British Artists. Since 2005, Ofili has been living and working in Trinidad and Tobago, where he currently resides in Port of Spain. He also lives and works in London and Brooklyn.",
+  "sign": "Libra"
+}

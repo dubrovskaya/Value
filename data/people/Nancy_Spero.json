@@ -1,0 +1,26 @@
+{
+  "bgcolour": "#6495ED",
+  "name": "Nancy Spero",
+  "image": "Nancyspero.jpg",
+  "caption": "Nancy Spero, in her New York Studio, 1973",
+  "birthPlace": "Cleveland",
+  "birthDate": {
+    "date": "1926-08-24T07:00:00.000Z",
+    "age": 91
+  },
+  "deathDate": {
+    "date": "2009-10-18T07:00:00.000Z",
+    "age": 83
+  },
+  "deathPlace": "New York (state)",
+  "nationality": "American",
+  "field": [
+    "Painting",
+    "Printmaking",
+    "Collage"
+  ],
+  "training": "Art Institute of Chicago",
+  "spouse": "Leon Golub",
+  "summary": "Nancy Spero (August 24, 1926 – October 18, 2009) was an American visual artist. Born in Cleveland, Ohio, Spero lived for much of her life in New York City. She was married to, and collaborated with, artist Leon Golub. As both artist and activist, Nancy Spero had a career that spanned fifty years. She is known for her continuous engagement with contemporary political, social, and cultural concerns. Spero chronicled wars and apocalyptic violence as well as articulating visions of ecstatic rebirth and the celebratory cycles of life. Her complex network of collective and individual voices was a catalyst for the creation of her figurative lexicon representing women from prehistory to the present in such epic-scale paintings and collage on paper as Torture of Women (1976), Notes in Time on Women (1979) and The First Language (1981). In 2010, Notes in Time was posthumously reanimated as a digital scroll in the online magazine Triple Canopy.",
+  "sign": "Virgo"
+}

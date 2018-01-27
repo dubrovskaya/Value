@@ -1,0 +1,30 @@
+{
+  "bgcolour": "#6495ED",
+  "name": "Bruce Nauman",
+  "image": "Truncated Pyramid Room.jpg",
+  "imagesize": "150PX",
+  "caption": "Lörrach",
+  "birthDate": {
+    "date": "1941-12-06T08:00:00.000Z",
+    "age": 76
+  },
+  "birthPlace": "Fort Wayne",
+  "nationality": "American",
+  "field": [
+    "sculpture",
+    "photography",
+    "neon lighting",
+    "video art",
+    "drawing",
+    "printmaking"
+  ],
+  "training": "University of Wisconsin–Madison",
+  "influenced": [
+    "Greg Colson",
+    "Rachel Whiteread"
+  ],
+  "works": "La air, 1970,\nHuman/Need/Desire, 1983",
+  "awards": "Venice Biennale",
+  "summary": "Bruce Nauman (born December 6, 1941) is an American artist. His practice spans a broad range of media including sculpture, photography, neon, video, drawing, printmaking, and performance. Nauman lives near Galisteo, New Mexico.",
+  "sign": "Sagittarius"
+}

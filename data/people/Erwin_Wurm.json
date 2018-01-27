@@ -1,0 +1,21 @@
+{
+  "image": "Erwin Wurm Porträt.jpg",
+  "name": "Erwin Wurm",
+  "imagesize": "200px",
+  "caption": "(2012)",
+  "birthDate": {
+    "date": "1954-07-27T07:00:00.000Z",
+    "age": 63
+  },
+  "birthPlace": "Bruck an der Mur",
+  "nationality": "Austria",
+  "field": [
+    "Sculpture",
+    "photography"
+  ],
+  "training": "University of Applied Arts Vienna",
+  "works": "Fat Car series",
+  "awards": "Grand Austrian State Prize 2013",
+  "summary": "Erwin Wurm (born 1954) is an Austrian artist born in Bruck an der Mur, Styria, Austria. He currently lives and works in Vienna and Limberg, Austria.",
+  "sign": "Leo"
+}

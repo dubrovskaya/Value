@@ -1,0 +1,16 @@
+{
+  "name": "Sir Tony Cragg",
+  "image": "Craggplastik 2014.jpg",
+  "alt": "a tall windswept-looking abstract sculpture",
+  "caption": "Bonn",
+  "birthDate": {
+    "date": "1949-04-09T07:00:00.000Z",
+    "age": 68
+  },
+  "birthPlace": "Liverpool",
+  "field": "Sculpture",
+  "awards": "Turner Prize",
+  "website": "url",
+  "summary": "Sir Anthony Douglas Cragg, CBE, RA (born 9 April 1949) is a British sculptor.",
+  "sign": "Aries"
+}

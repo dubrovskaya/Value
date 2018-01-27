@@ -1,0 +1,27 @@
+{
+  "name": "Robert Mapplethorpe",
+  "image": "Robert Mapplethorpe, Self-portrait, 1980.jpg",
+  "caption": "Self-Portrait, 1980",
+  "birthDate": {
+    "date": "1946-11-04T08:00:00.000Z",
+    "age": 71
+  },
+  "birthPlace": "Floral Park, New York",
+  "deathDate": {
+    "date": "1989-03-09T08:00:00.000Z",
+    "age": 42
+  },
+  "deathPlace": "Boston",
+  "restingPlace": [
+    "St. John Cemetery (Queens)",
+    "New York City"
+  ],
+  "nationality": "American",
+  "field": "Photography",
+  "training": "Pratt Institute",
+  "patrons": "Sam Wagstaff",
+  "influencedBy": "George Dureau",
+  "website": "url",
+  "summary": "Robert Mapplethorpe (; November 4, 1946 – March 9, 1989) was an American photographer, known for his sensitive yet blunt treatment of controversial subject-matter in the large-scale, highly stylized black and white medium of photography. His work featured an array of subjects, including celebrity portraits, male and female nudes, self-portraits and still-life images of flowers. His most controversial work is that of the underground BDSM scene in the late 1960s and early 1970s of New York City. The homoeroticism of this work fuelled a national debate over the public funding of controversial artwork.",
+  "sign": "Scorpio"
+}

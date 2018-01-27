@@ -1,0 +1,23 @@
+{
+  "name": "Ed Moses",
+  "birthDate": {
+    "date": "1926-04-09T07:00:00.000Z",
+    "age": 91
+  },
+  "birthPlace": "Long Beach, California",
+  "deathDate": {
+    "date": "2018-01-17T08:00:00.000Z",
+    "age": 91
+  },
+  "deathPlace": "Venice, Los Angeles",
+  "spouse": "marriage",
+  "field": "Painting",
+  "almaMater": "University of California, Los Angeles",
+  "movement": "Abstract art",
+  "awards": [
+    "National Endowment for the Arts",
+    "Guggenheim Fellowship"
+  ],
+  "summary": "Ed Moses (April 9, 1926 – January 17, 2018) was an American artist based in Los Angeles and an innovative and central figure of postwar West Coast art.\nMoses exhibited at the Ferus Gallery in 1957 along with other prominent artists, becoming widely known over the next five decades.\n\n",
+  "sign": "Aries"
+}

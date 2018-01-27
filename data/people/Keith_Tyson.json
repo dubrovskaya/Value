@@ -1,0 +1,19 @@
+{
+  "bgcolour": "#6495ED",
+  "name": "Keith Tyson",
+  "birthName": "Keith Thomas Bower",
+  "birthDate": {
+    "date": "1969-08-23T07:00:00.000Z",
+    "age": 48
+  },
+  "birthPlace": "Ulverston",
+  "nationality": "British",
+  "field": [
+    "Drawing",
+    "Installation art"
+  ],
+  "spouse": "marriage",
+  "awards": "Turner Prize",
+  "summary": "Keith Tyson (born Keith Thomas Bower, 23 August 1969) is an English artist. In 2002, he was the winner of the Turner Prize. His work is concerned with an interest in generative systems, and an embrace of the complexity and interconnectedness of existence. Tyson works in a wide range of media, including painting, drawing and installation.",
+  "sign": "Virgo"
+}

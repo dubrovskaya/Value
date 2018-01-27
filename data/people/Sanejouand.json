@@ -1,0 +1,16 @@
+{
+  "bgcolour": "#6495ED",
+  "name": "Jean-Michel Sanejouand",
+  "image": "Sanejouand2006-Lance-Pierre.jpg",
+  "imagesize": "300px",
+  "caption": "\"Lance-pierre\", 2006 (painted stones)",
+  "birthDate": {
+    "date": "1934-07-18T07:00:00.000Z",
+    "age": 83
+  },
+  "birthPlace": "Lyon, France",
+  "nationality": "French",
+  "field": "Sculpture, Painting",
+  "summary": "Jean-Michel Sanejouand was born in Lyon, France, on July 18, 1934. His work has many facets, ranging from environments to monumental sculptures, from readymade-like objects to paintings of oneiric landscapes in which (usually) one of his sculptures stands.",
+  "sign": "Cancer"
+}

@@ -1,0 +1,26 @@
+{
+  "bgcolour": "#6495ED",
+  "name": "Ana Mendieta",
+  "image": "Ana Mendieta Untitled (Facial Hair Transplants) 1972.jpg",
+  "caption": "Untitled (Facial Hair Transplants), 1972",
+  "birthDate": {
+    "date": "1948-11-18T08:00:00.000Z",
+    "age": 69
+  },
+  "birthPlace": "Havana, Cuba",
+  "deathDate": {
+    "date": "1985-09-08T07:00:00.000Z",
+    "age": 36
+  },
+  "deathPlace": "New York City, New York",
+  "nationality": "Cuba",
+  "education": "University of Iowa",
+  "field": [
+    "Performance art",
+    "sculpture",
+    "video art"
+  ],
+  "spouse": "Carl Andre",
+  "summary": "Ana Mendieta (November 18, 1948 – September 8, 1985) was a Cuban American performance artist, sculptor, painter and video artist who is best known for her \"earth-body\" artwork. Born in Havana, Mendieta arrived in the United States as a refugee in 1961 (two years after Marxist revolutionary leader Fidel Castro overthrew the authoritarian government of Cuban President Fulgencio Batista).",
+  "sign": "Scorpio"
+}

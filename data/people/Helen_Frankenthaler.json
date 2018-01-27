@@ -1,0 +1,40 @@
+{
+  "bgcolour": "#76A8FF",
+  "name": "Helen Frankenthaler",
+  "image": "Helen Frankenthaler-1956.jpg",
+  "imagesize": "300px",
+  "caption": "Frankenthaler in 1956",
+  "birthDate": {
+    "date": "1928-12-12T08:00:00.000Z",
+    "age": 89
+  },
+  "birthPlace": "Manhattan",
+  "deathDate": {
+    "date": "2011-12-27T08:00:00.000Z",
+    "age": 83
+  },
+  "deathPlace": "Darien, Connecticut",
+  "nationality": "United States",
+  "field": "Abstract painting",
+  "training": [
+    "Dalton School",
+    "Bennington College"
+  ],
+  "movement": [
+    "Abstract Expressionism",
+    "Color Field painting",
+    "Lyrical Abstraction"
+  ],
+  "works": "Mountains and Sea",
+  "influencedBy": [
+    "Jackson Pollock",
+    "Hans Hofmann"
+  ],
+  "influenced": [
+    "Morris Louis",
+    "Kenneth Noland",
+    "Barbara E. Mink"
+  ],
+  "summary": "Helen Frankenthaler (December 12, 1928 – December 27, 2011) was an American abstract expressionist painter. She was a major contributor to the history of postwar American painting. Having exhibited her work for over six decades (early 1950s until 2011), she spanned several generations of abstract painters while continuing to produce vital and ever-changing new work. Frankenthaler began exhibiting her large-scale abstract expressionist paintings in contemporary museums and galleries in the early 1950s. She was included in the 1964 Post-Painterly Abstraction exhibition curated by Clement Greenberg that introduced a newer generation of abstract painting that came to be known as Color Field. Born in Manhattan, she was influenced by Greenberg, Hans Hofmann, and Jackson Pollock's paintings. Her work has been the subject of several retrospective exhibitions, including a 1989 retrospective at the Museum of Modern Art in New York City, and been exhibited worldwide since the 1950s. In 2001, she was awarded the National Medal of Arts.\nFrankenthaler had a home and studio in Darien, Connecticut.",
+  "sign": "Sagittarius"
+}

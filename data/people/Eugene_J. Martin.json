@@ -1,0 +1,22 @@
+{
+  "bgcolour": "#6495ED",
+  "name": "Eugene J. Martin",
+  "image": "Eugene J. Martin.2.jpg",
+  "imagesize": "250px",
+  "caption": "Martin, self-portrait, 1990",
+  "birthDate": {
+    "date": "1938-07-24T07:00:00.000Z",
+    "age": 79
+  },
+  "birthPlace": "Washington, D.C.",
+  "deathDate": {
+    "date": "2005-01-01T08:00:00.000Z",
+    "age": 66
+  },
+  "deathPlace": "Lafayette, Louisiana",
+  "nationality": "United States",
+  "field": "Visual art",
+  "training": "Corcoran College of Art and Design",
+  "summary": "Eugene James Martin (Washington, D.C., July 24, 1938 – Lafayette, Louisiana, January 1, 2005) was an African-American visual artist.",
+  "sign": "Leo"
+}

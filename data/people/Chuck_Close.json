@@ -1,0 +1,21 @@
+{
+  "bgcolour": "#6495E0",
+  "name": "Chuck Close",
+  "image": "Chuck Close.jpg",
+  "caption": "Chuck Close in 2009",
+  "birthName": "Charles Thomas Close",
+  "birthDate": {
+    "date": "1940-07-05T07:00:00.000Z",
+    "age": 77
+  },
+  "birthPlace": "Monroe, Washington",
+  "spouse": "Leslie Rose, Sienna Shields",
+  "nationality": "American",
+  "field": "Photorealistic",
+  "training": [
+    "Bachelor of Arts",
+    "University of Washington"
+  ],
+  "summary": "Charles Thomas \"Chuck\" Close (born July 5, 1940) is an American painter, artist and photographer who achieved fame as a photorealist, through his massive-scale portraits.\nClose often paints abstract portraits of himself and others, which hang in collections internationally.\nAlthough a catastrophic spinal artery collapse in 1988 left him severely paralyzed, he has continued to paint and produce work that remains sought after by museums and collectors.\nClose also creates photo portraits using a very large format camera.",
+  "sign": "Cancer"
+}

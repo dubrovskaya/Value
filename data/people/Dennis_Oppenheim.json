@@ -1,0 +1,31 @@
+{
+  "bgcolour": "#6495ED",
+  "name": "Dennis Oppenheim",
+  "image": "Dennis_Oppenheim.jpg",
+  "caption": "Dennis Oppenheim, November 19, 2008, by Mary Barone",
+  "birthDate": {
+    "date": "1938-09-06T07:00:00.000Z",
+    "age": 79
+  },
+  "birthPlace": "Electric City, Washington",
+  "deathDate": {
+    "date": "2011-01-21T08:00:00.000Z",
+    "age": 72
+  },
+  "deathPlace": "New York City",
+  "nationality": "United States",
+  "field": [
+    "Sculpture",
+    "performance art"
+  ],
+  "training": [
+    "California College of the Arts",
+    "Stanford University"
+  ],
+  "movement": [
+    "Conceptual art",
+    "Environmental art"
+  ],
+  "summary": "Dennis Oppenheim (September 6, 1938 – January 21, 2011) was an American conceptual artist, performance artist, earth artist, sculptor and photographer",
+  "sign": "Virgo"
+}

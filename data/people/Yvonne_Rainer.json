@@ -1,0 +1,20 @@
+{
+  "bgcolour": "#6495ED",
+  "name": "Yvonne Rainer",
+  "image": "Yvonne Rainer.jpg",
+  "caption": "Yvonne Rainer, 2014",
+  "birthDate": {
+    "date": "1934-11-24T08:00:00.000Z",
+    "age": 83
+  },
+  "birthPlace": "San Francisco, California",
+  "nationality": "American",
+  "field": [
+    "Performance art",
+    "Choreography"
+  ],
+  "training": "Martha Graham Center of Contemporary Dance",
+  "awards": "MacArthur Fellows Program",
+  "summary": "Yvonne Rainer (born November 24, 1934) is an American dancer, choreographer, and filmmaker, whose work in these disciplines is regarded as challenging and experimental. Her work is sometimes classified as minimalist art. Rainer currently lives and works in California and New York.",
+  "sign": "Sagittarius"
+}

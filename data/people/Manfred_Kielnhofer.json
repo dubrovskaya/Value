@@ -1,0 +1,20 @@
+{
+  "name": "Manfred Kielnhofer",
+  "image": "Kielnhofer.jpg",
+  "caption": "Manfred Kielnhofer",
+  "birthDate": {
+    "date": "1967-01-28T08:00:00.000Z",
+    "age": 51
+  },
+  "birthPlace": "Haslach an der Mühl",
+  "field": [
+    "Painting",
+    "Photography",
+    "Design",
+    "Sculpture"
+  ],
+  "works": "Guardians of Time (Art)",
+  "website": "http://www.kielnhofer.at",
+  "summary": "Manfred \"KILI\" Kielnhofer (born January 28, 1967 in Haslach an der Mühl) is an Austrian painter, sculptor, designer and photographer.",
+  "sign": "Aquarius"
+}

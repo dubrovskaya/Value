@@ -1,0 +1,27 @@
+{
+  "name": "Sigmar Polke",
+  "image": "Dieter Frowein Lyasso&Sigmar Polke.jpeg",
+  "caption": "Sigmar Polke (right) with his friend Dieter Frowein-Lyasso",
+  "birthDate": {
+    "date": "1941-02-13T08:00:00.000Z",
+    "age": 77
+  },
+  "birthPlace": "Oleśnica",
+  "deathDate": {
+    "date": "2010-06-10T07:00:00.000Z",
+    "age": 69
+  },
+  "deathPlace": [
+    "Cologne",
+    "Germany"
+  ],
+  "field": [
+    "Painting",
+    "Photography"
+  ],
+  "training": "Kunstakademie Düsseldorf",
+  "movement": "Capitalist realism",
+  "awards": "Siegen#The Rubens Prize of the City of Siegen",
+  "summary": "Sigmar Polke (13 February 1941 – 10 June 2010) was a German painter and photographer.\nPolke experimented with a wide range of styles, subject matters and materials. In the 1970s, he concentrated on photography, returning to paint in the 1980s, when he produced abstract works created by chance through chemical reactions between paint and other products. In the last 20 years of his life, he produced paintings focused on historical events and perceptions of them.",
+  "sign": "Aquarius"
+}

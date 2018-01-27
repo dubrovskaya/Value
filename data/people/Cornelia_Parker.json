@@ -1,0 +1,22 @@
+{
+  "bgcolour": "#6495ED",
+  "name": "Cornelia Parker",
+  "image": "Cornelia-Parker-010-1.jpg",
+  "imageSize": "150",
+  "birthDate": "birth year and age",
+  "birthPlace": "Cheshire",
+  "nationality": "British",
+  "field": [
+    "Conceptual art",
+    "installation art",
+    "sculpture"
+  ],
+  "training": [
+    "University of Gloucestershire",
+    "University of Wolverhampton",
+    "University of Reading"
+  ],
+  "works": "Cold, Dark Matter: An Exploded View (1991),The Maybe (1995)",
+  "summary": "Cornelia Ann Parker OBE, RA (born 1956) is an English sculptor and installation artist.",
+  "sign": "n/a"
+}

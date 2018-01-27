@@ -1,0 +1,20 @@
+{
+  "bgcolour": "#6495ED",
+  "name": "Thomas Hirschorn",
+  "image": "Thomas Hirschhorn.jpg",
+  "birthDate": {
+    "date": "1957-05-16T07:00:00.000Z",
+    "age": 60
+  },
+  "birthPlace": "Bern",
+  "nationality": "Switzerland",
+  "field": "Installation art",
+  "training": "Zurich University of the Arts",
+  "movement": "Contemporary art",
+  "awards": [
+    "Marcel Duchamp Prize",
+    "Joseph Beuys"
+  ],
+  "summary": "Thomas Hirschhorn (born in Bern, 16 May 1957) is a Swiss artist. He lives and works in Paris.",
+  "sign": "Taurus"
+}

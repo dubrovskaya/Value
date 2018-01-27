@@ -1,0 +1,26 @@
+{
+  "bgcolour": "#6495ED",
+  "name": "Robert Smithson",
+  "image": "Spiral-jetty-from-rozel-point.png",
+  "imagesize": "300px",
+  "caption": "Spiral Jetty",
+  "birthName": "Robert Irving Smithson",
+  "birthDate": {
+    "date": "1938-01-02T08:00:00.000Z",
+    "age": 80
+  },
+  "birthPlace": "Passaic, New Jersey",
+  "deathDate": {
+    "date": "1973-07-20T07:00:00.000Z",
+    "age": 35
+  },
+  "deathPlace": "Amarillo, Texas",
+  "nationality": "American",
+  "training": "Art Students League of New York",
+  "movement": "Land art",
+  "works": "Spiral Jetty",
+  "patrons": "Virginia Dwan",
+  "influencedBy": "Frederick Law Olmsted",
+  "summary": "Robert Smithson (January 2, 1938 – July 20, 1973) was an American artist who used photography in relation to sculpture and land art.",
+  "sign": "Capricorn"
+}

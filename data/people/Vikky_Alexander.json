@@ -1,0 +1,25 @@
+{
+  "bgcolour": "#6495ED",
+  "name": "Vikky Alexander",
+  "birthDate": {
+    "date": "1959-01-30T08:00:00.000Z",
+    "age": 59
+  },
+  "birthPlace": "Victoria, British Columbia",
+  "nationality": "Canadian",
+  "field": [
+    "installation art",
+    "photography",
+    "drawing",
+    "collage"
+  ],
+  "training": "Nova Scotia College of Art and Design",
+  "movement": "Vancouver School",
+  "works": "Autumn/Spring, 1997",
+  "awards": [
+    "Royal Canadian Academy",
+    "Canada Council for the Arts"
+  ],
+  "summary": "Vikky Alexander (born January 30, 1959) is a Canadian contemporary artist based in Vancouver, British Columbia. She has exhibited internationally since 1981. Working across mediums she is a leading practitioner in the field of photo-conceptualism and is well known as an installation artist who uses photography, drawing, and collage. She is one of Canada's most acclaimed contemporary artists and has been recognized in Japan, Korea, Europe, New Zealand and the United States. Her work includes mirrors, photographic landscape murals, postcards collected on her travels, and her own photography and video.",
+  "sign": "Aquarius"
+}

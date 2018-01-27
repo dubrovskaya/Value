@@ -1,0 +1,27 @@
+{
+  "bgcolour": "#6495ED",
+  "name": "Nicolas Carone",
+  "imagesize": "File:Nicolas Carone,East Hapmton, late 50's (1).jpg",
+  "caption": "Nicolas Carone, East Hampton, NY, late 1950s",
+  "birthDate": {
+    "date": "1917-06-04T07:00:00.000Z",
+    "age": 100
+  },
+  "birthPlace": "New York City",
+  "deathDate": {
+    "date": "2010-07-15T07:00:00.000Z",
+    "age": 93
+  },
+  "deathPlace": "Hudson, New York",
+  "nationality": "United States",
+  "field": "painting",
+  "training": [
+    "National Academy of Design",
+    "Art Students League of New York",
+    "Hans Hofmann"
+  ],
+  "movement": "Abstract expressionism",
+  "awards": "Prix de Rome",
+  "summary": "Nicolas Carone (June 4, 1917 – July 15, 2010) belonged to the early generation of New York School Abstract Expressionist artists. Their artistic innovation by the 1950s had been recognized internationally, including in London and Paris. New York School Abstract Expressionism, represented by Jackson Pollock, Willem de Kooning, Franz Kline, Conrad Marca-Relli and others, became a leading art movement of the postwar era.",
+  "sign": "Gemini"
+}

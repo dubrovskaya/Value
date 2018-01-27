@@ -1,0 +1,20 @@
+{
+  "name": "Richard Deacon",
+  "image": "Richard Deacon II (2017).jpg",
+  "caption": "Richard Deacon (2017)",
+  "birthDate": {
+    "date": "1949-08-15T07:00:00.000Z",
+    "age": 68
+  },
+  "birthPlace": "Bangor, Wales",
+  "field": "Sculpture",
+  "training": [
+    "St Martin's School of Art",
+    "Royal College of Art"
+  ],
+  "movement": "New British Sculpture",
+  "awards": "Turner Prize",
+  "website": "http://www.richarddeacon.net",
+  "summary": "Richard Deacon CBE (born 15 August 1949) is a British abstract sculptor, and a winner of the Turner Prize.",
+  "sign": "Leo"
+}

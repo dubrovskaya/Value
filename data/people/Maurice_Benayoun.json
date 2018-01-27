@@ -1,0 +1,19 @@
+{
+  "name": "Maurice Benayoun",
+  "image": "MoBen.jpg",
+  "imageSize": "220",
+  "caption": "Maurice Benayoun in 2000",
+  "birthName": "nowrap",
+  "birthDate": {
+    "date": "1957-03-29T07:00:00.000Z",
+    "age": 60
+  },
+  "birthPlace": "Mascara, Algeria",
+  "website": "http://www.benayoun.com/",
+  "awards": "'Golden Nica',Ars Electronica 1998, ,Chevalier des Arts et Lettres 2000, ,Siggraph 1991, ,Villa Medicis hors les murs, 1993, ,Imagina, 1993, ,International Monitor Awards...",
+  "field": "New Media Art",
+  "works": "Quarxs",
+  "training": "Pantheon-Sorbonne University",
+  "summary": "Maurice Benayoun (aka MoBen or 莫奔) (born 29 March 1957 in Mascara, Algeria) is a French pioneer new-media artist and theorist based in Paris and Hong Kong. His work employs various media, including (and often combining) video, immersive virtual reality, the Web, wireless technology, performance, EEG, 3D Printing, large-scale urban media art installations and interactive exhibitions.",
+  "sign": "Aries"
+}

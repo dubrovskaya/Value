@@ -1,0 +1,19 @@
+{
+  "bgcolour": "#6495ED",
+  "name": "Julian Opie",
+  "birthDate": "Birth year and age",
+  "birthPlace": "London, England",
+  "field": [
+    "Painting",
+    "Sculpture",
+    "Art"
+  ],
+  "training": "Goldsmiths, University of London",
+  "works": [
+    "Gateshead Millennium Bridge",
+    "Ann Dancing"
+  ],
+  "influencedBy": "Michael Craig-Martin",
+  "summary": "Julian Opie (; born 1958) is a visual artist of the New British Sculpture movement.",
+  "sign": "n/a"
+}

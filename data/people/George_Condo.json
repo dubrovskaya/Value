@@ -1,0 +1,27 @@
+{
+  "name": "George Condo",
+  "image": "George Condo.jpeg",
+  "caption": "Portrait of the artist by Sophie Caby in 2012.",
+  "birthDate": "birth-date",
+  "birthPlace": "Concord, New Hampshire",
+  "nationality": "United States",
+  "spouse": "Anna Condo",
+  "awards": "American Academy of Arts and Letters",
+  "bgcolour": "#6495ED",
+  "field": "Painting",
+  "training": "University of Massachusetts Lowell",
+  "influencedBy": [
+    "Bruce Nauman",
+    "Michael Powell (director)",
+    "Robert Smithson",
+    "Nancy Holt",
+    "Yvonne Rainer"
+  ],
+  "influenced": [
+    "Sean Landers",
+    "John Currin",
+    "Lisa Yuskavage"
+  ],
+  "summary": "George Condo (born 1957 in Concord, New Hampshire) is an American contemporary visual artist working in the mediums of painting, drawing, sculpture and printmaking. He currently lives and works in New York City.",
+  "sign": "n/a"
+}

@@ -1,0 +1,27 @@
+{
+  "bgcolour": "#6495ED",
+  "name": "Jack Goldstein",
+  "birthDate": {
+    "date": "1945-09-27T07:00:00.000Z",
+    "age": 72
+  },
+  "birthPlace": "Montreal",
+  "deathDate": {
+    "date": "2003-03-14T08:00:00.000Z",
+    "age": 57
+  },
+  "deathPlace": "San Bernardino, California",
+  "nationality": "Canadians",
+  "field": [
+    "Performance art",
+    "Conceptual art",
+    "Painting"
+  ],
+  "training": [
+    "Chouinard Art Institute",
+    "California Institute of the Arts"
+  ],
+  "movement": "Minimalism",
+  "summary": "Jack Goldstein (September 27, 1945 – March 14, 2003) was a Canadian born, California-based performance and conceptual artist turned painter in the 1980s art boom.",
+  "sign": "Libra"
+}

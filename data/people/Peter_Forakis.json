@@ -1,0 +1,22 @@
+{
+  "bgcolour": "#6495ED",
+  "name": "Peter Forakis",
+  "birthDate": {
+    "date": "1927-09-22T07:00:00.000Z",
+    "age": 90
+  },
+  "birthPlace": "Hanna, Wyoming",
+  "deathDate": "2009-11-26T08:00:00.000Z",
+  "deathPlace": "Petaluma, California",
+  "nationality": "United States of America",
+  "field": [
+    "Sculpture",
+    "Abstract art"
+  ],
+  "training": [
+    "California School of Fine Arts",
+    "San Francisco Art Institute"
+  ],
+  "summary": "Peter Forakis (born September 22, 1927, in Hanna, Wyoming, died November 26, 2009 in Petaluma, California) was an American artist known as an abstract geometric sculptor. The son of a Greek immigrant, he grew up on the Wyoming prairie until the age of 10 when his family moved to Oakland, California. Eventually they settled in Modesto, California. Forakis was in the Merchant Marines from 1945-50. He served in the US. Military in Korea and Japan from 1951-53. He earned his B.F.A. at the California School of Fine Arts (San Francisco Art Institute) in 1957.",
+  "sign": "Virgo"
+}

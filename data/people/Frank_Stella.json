@@ -1,0 +1,38 @@
+{
+  "bgcolour": "#6495ED",
+  "name": "Frank Stella",
+  "birthName": "Frank Philip Stella",
+  "birthDate": "Birth  date and age ",
+  "birthPlace": "Malden, Massachusetts",
+  "nationality": "American",
+  "field": [
+    "Painting",
+    "Printmaking",
+    "Sculpture",
+    "Architecture"
+  ],
+  "movement": [
+    "Modernism",
+    "Minimal art",
+    "Abstract expressionism",
+    "Geometric abstraction",
+    "Abstract Illusionism",
+    "Lyrical abstraction",
+    "Hard-edge painting",
+    "Shaped canvas"
+  ],
+  "influencedBy": [
+    "Caravaggio",
+    "Jackson Pollock",
+    "Franz Kline",
+    "Barnett Newman",
+    "Jasper Johns"
+  ],
+  "influenced": "Frank Gehry",
+  "awards": [
+    "Harvard University",
+    "Charles Eliot Norton"
+  ],
+  "summary": "Frank Philip Stella (born May 12, 1936) is an American painter, sculptor and printmaker, noted for his work in the areas of minimalism and post-painterly abstraction. Stella lives and works in New York City.",
+  "sign": "n/a"
+}

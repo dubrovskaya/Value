@@ -1,0 +1,20 @@
+{
+  "name": "Ellen Gallagher",
+  "birthName": "Ellen R. Gallagher",
+  "birthDate": {
+    "date": "1965-12-16T08:00:00.000Z",
+    "age": 52
+  },
+  "birthPlace": "Providence, Rhode Island",
+  "nationality": "American",
+  "field": "Flatlist",
+  "training": [
+    "Oberlin College",
+    "Studio 70",
+    "School of the Museum of Fine Arts",
+    "Skowhegan School of Painting and Sculpture"
+  ],
+  "movement": "Contemporary art",
+  "summary": "Ellen Gallagher (born December 16, 1965) is an American artist. Her work has been shown in numerous solo and group exhibitions and is held in the permanent collections of many major museums. Her media include painting, works on paper, film and video. Some of her pieces refer to issues of race, and may combine formality with racial stereotypes and depict \"ordering principles\" society imposes.",
+  "sign": "Sagittarius"
+}

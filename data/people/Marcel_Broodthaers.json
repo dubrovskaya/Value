@@ -1,0 +1,26 @@
+{
+  "name": "Marcel Broodthaers",
+  "imagesize": "200px",
+  "birthName": "Marcel Broodthaers",
+  "birthDate": {
+    "date": "1924-01-28T08:00:00.000Z",
+    "age": 94
+  },
+  "birthPlace": "Brussels",
+  "deathDate": {
+    "date": "1976-01-28T08:00:00.000Z",
+    "age": 52
+  },
+  "deathPlace": "Cologne",
+  "nationality": "Belgium",
+  "field": [
+    "Sculpture",
+    "Poetry",
+    "Artist's book",
+    "installation art"
+  ],
+  "movement": "Conceptual Art",
+  "works": "Un Coup de Dés Jamais N'Abolira Le Hasard (Broodthaers)",
+  "summary": "Marcel Broodthaers (28 January 1924 – 28 January 1976) was a Belgian poet, filmmaker and artist with a highly literate and often witty approach to creating art works.",
+  "sign": "Aquarius"
+}

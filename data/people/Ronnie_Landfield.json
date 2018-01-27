@@ -1,0 +1,40 @@
+{
+  "bgcolour": "silver",
+  "name": "Ronnie Landfield",
+  "image": "Gardenofdelight.jpg",
+  "imagesize": "250px",
+  "caption": [
+    "Four Seasons Restaurant",
+    "Seagram Building"
+  ],
+  "birthDate": {
+    "date": "1947-01-09T08:00:00.000Z",
+    "age": 71
+  },
+  "birthPlace": "Bronx, New York",
+  "nationality": "American",
+  "field": "Abstract painting",
+  "training": [
+    "Kansas City Art Institute",
+    "San Francisco Art Institute",
+    "Art Students League of New York"
+  ],
+  "movement": [
+    "Abstract Expressionism",
+    "Post-minimalism",
+    "Color Field painting",
+    "Lyrical Abstraction"
+  ],
+  "works": "Diamond Lake, Portal To Paradise",
+  "influencedBy": [
+    "Pablo Picasso",
+    "Henri Matisse",
+    "Jackson Pollock",
+    "Hans Hofmann",
+    "Willem de Kooning",
+    "René Magritte",
+    "Franz Kline"
+  ],
+  "summary": "Ronnie Landfield (born January 9, 1947) is an American abstract painter. During his early career from the mid-1960s through the 1970s his paintings were associated with Lyrical Abstraction, (related to Postminimalism, Color Field painting, and Abstract expressionism), and he was represented by the David Whitney Gallery and the André Emmerich Gallery.\nLandfield is best known for his abstract landscape paintings, and has held more than seventy solo exhibitions and more than two hundred group exhibitions. In 2011 he was described by the LewAllen Gallerie as \"at the forefront of contemporary art...one of the best painters in America.\"",
+  "sign": "Capricorn"
+}

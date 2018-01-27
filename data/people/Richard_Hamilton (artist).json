@@ -1,0 +1,32 @@
+{
+  "bgcolour": "#6495ED",
+  "name": "Richard Hamilton",
+  "image": "Richard Hamilton Artist.jpg",
+  "imagesize": "242px",
+  "caption": "Richard Hamilton, 1992",
+  "birthDate": {
+    "date": "1922-02-24T08:00:00.000Z",
+    "age": 95
+  },
+  "birthPlace": "Pimlico",
+  "deathDate": {
+    "date": "2011-09-13T07:00:00.000Z",
+    "age": 89
+  },
+  "deathPlace": "London, England",
+  "nationality": "British",
+  "field": [
+    "Collage",
+    "painting",
+    "graphics"
+  ],
+  "training": [
+    "Royal Academy",
+    "Slade School of Art",
+    "University College, London"
+  ],
+  "movement": "Pop Art",
+  "works": "Just what is it that makes today's homes so different, so appealing?",
+  "summary": "Richard William Hamilton CH (24 February 1922 – 13 September 2011) was an English painter and collage artist. His 1955 exhibition Man, Machine and Motion (Hatton Gallery, Newcastle upon Tyne) and his 1956 collage Just what is it that makes today's homes so different, so appealing?, produced for the This Is Tomorrow exhibition of the Independent Group in London, are considered by critics and historians to be among the earliest works of pop art. A major retrospective of his work was at Tate Modern until May 2014.",
+  "sign": "Pisces"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Jennifer Bartlett",
+  "image": "'Houses', --serigraph-- by --Jennifer Bartlett--, 2005.jpg",
+  "imageSize": "200px",
+  "caption": "Screen-printing",
+  "birthName": "Jennifer Losch",
+  "birthDate": {
+    "date": "1941-03-14T07:00:00.000Z",
+    "age": 76
+  },
+  "birthPlace": "Long Beach, California",
+  "nationality": "American",
+  "field": "Painting",
+  "training": [
+    "Mills College",
+    "Yale School of Art"
+  ],
+  "summary": "Jennifer Losch Bartlett (born March 14, 1941) is an American artist. She is known for paintings and prints that combine the system-based aesthetic of Conceptual art with the painterly approach of Neo-expressionism. Many of her pieces are executed on small, square, enamel-coated steel plates that are combined in grid formations to create very large works.",
+  "sign": "Pisces"
+}

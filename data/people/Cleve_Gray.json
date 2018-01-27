@@ -1,0 +1,29 @@
+{
+  "bgcolour": "#6495ED",
+  "name": "Cleve Gray",
+  "birthName": "Cleve Ginsberg",
+  "birthDate": {
+    "date": "1918-09-22T07:00:00.000Z",
+    "age": 99
+  },
+  "birthPlace": "New York City",
+  "deathDate": {
+    "date": "2004-12-08T08:00:00.000Z",
+    "age": 86
+  },
+  "deathPlace": "Hartford, Connecticut",
+  "nationality": "United States",
+  "field": "Abstract expressionist",
+  "influencedBy": [
+    "André Lhote",
+    "Jacques Villon",
+    "Chinese art",
+    "landscape painting",
+    "Jackson Pollock",
+    "Clyfford Still",
+    "Mark Rothko",
+    "Helen Frankenthaler"
+  ],
+  "summary": "Cleve Gray (September 22, 1918 in New York City – December 8, 2004 in Hartford, Connecticut) was as an American Abstract expressionist painter, who was also associated with Color Field painting and Lyrical Abstraction.",
+  "sign": "Virgo"
+}

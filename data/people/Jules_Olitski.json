@@ -1,0 +1,28 @@
+{
+  "bgcolour": "#6495ED",
+  "name": "Jules Olitski",
+  "birthName": "Jevel Demikovski",
+  "birthDate": {
+    "date": "1922-03-27T07:00:00.000Z",
+    "age": 95
+  },
+  "birthPlace": "Ukrainian SSR",
+  "deathDate": {
+    "date": "2007-02-04T08:00:00.000Z",
+    "age": 84
+  },
+  "nationality": "American",
+  "field": "Painting, sculpture, printmaking",
+  "training": [
+    "Pratt Institute",
+    "National Academy of Design",
+    "Ossip Zadkine"
+  ],
+  "movement": [
+    "Color Field painting",
+    "Lyrical Abstraction",
+    "Abstract Expressionism"
+  ],
+  "summary": "Jevel Demikovski (March 27, 1922 – February 4, 2007), known professionally as Jules Olitski, was an American painter, printmaker, and sculptor.",
+  "sign": "Aries"
+}

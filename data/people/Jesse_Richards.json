@@ -1,0 +1,28 @@
+{
+  "bgcolour": "#6495ED",
+  "name": "Jesse Richards",
+  "image": "Jesse Richards, photo by Charles Thomson.jpg",
+  "imagesize": "180px",
+  "caption": "Jesse Richards",
+  "birthName": "Jesse Beau Richards",
+  "birthDate": {
+    "date": "1975-07-17T07:00:00.000Z",
+    "age": 42
+  },
+  "birthPlace": "New Haven",
+  "nationality": "American",
+  "field": "Painting, Photography, Cinema",
+  "training": [
+    "The School of Visual Arts",
+    "University of Massachusetts Amherst"
+  ],
+  "movement": "Stuckism",
+  "works": "Night Life, Shooting at the Moon",
+  "influencedBy": [
+    "Die Brücke",
+    "wabi-sabi",
+    "mono no aware"
+  ],
+  "summary": "Jesse Richards (born July 17, 1975) is a painter, filmmaker and photographer from New Haven, Connecticut and was affiliated with the international movement Stuckism. He has been described as \"one of the most provocative names in American underground culture\", and \"the father of remodernist cinema\".",
+  "sign": "Cancer"
+}

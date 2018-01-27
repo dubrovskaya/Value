@@ -1,0 +1,36 @@
+{
+  "bgcolour": "#6495ED",
+  "name": "Ellsworth Kelly",
+  "image": "Ellsworth Kelly (cropped).jpg",
+  "alt": "Kelly smiling on the red carpet",
+  "caption": "Ellsworth Kelly arrives at LACMA’s gala opening of the Broad Contemporary Art Museum on February 9, 2008, in Los Angeles",
+  "birthDate": {
+    "date": "1923-05-31T07:00:00.000Z",
+    "age": 94
+  },
+  "birthPlace": "Newburgh, New York",
+  "deathDate": {
+    "date": "2015-12-27T08:00:00.000Z",
+    "age": 92
+  },
+  "deathPlace": "Spencertown, New York",
+  "nationality": "American",
+  "field": [
+    "Painting",
+    "sculpture",
+    "printmaking"
+  ],
+  "training": [
+    "Pratt Institute",
+    "École nationale supérieure des Beaux-Arts",
+    "School of the Museum of Fine Arts, Boston"
+  ],
+  "influencedBy": [
+    "Henri Matisse",
+    "Pablo Picasso",
+    "Romanesque art"
+  ],
+  "awards": "Praemium Imperiale",
+  "summary": "Ellsworth Kelly (May 31, 1923 – December 27, 2015) was an American painter, sculptor, and printmaker associated with hard-edge painting, Color Field painting and minimalism. His works demonstrate unassuming techniques emphasizing line, color and form, similar to the work of John McLaughlin and Kenneth Noland. Kelly often employed bright colors. He lived and worked in Spencertown, New York.",
+  "sign": "Gemini"
+}

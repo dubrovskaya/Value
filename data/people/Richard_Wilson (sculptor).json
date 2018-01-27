@@ -1,0 +1,21 @@
+{
+  "name": "Richard Wilson",
+  "image": "Turning the place over.jpg",
+  "caption": "Turning the place over",
+  "birthDate": {
+    "date": "1953-05-24T07:00:00.000Z",
+    "age": 64
+  },
+  "birthPlace": "Islington",
+  "field": [
+    "Sculpture",
+    "installation art"
+  ],
+  "education": [
+    "London College of Printing",
+    "Hornsey College of Art",
+    "Reading University"
+  ],
+  "summary": "Richard Wilson  (born 24 May 1953) is an English sculptor, installation artist and musician.",
+  "sign": "Gemini"
+}

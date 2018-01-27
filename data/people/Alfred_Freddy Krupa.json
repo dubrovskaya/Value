@@ -1,0 +1,24 @@
+{
+  "bgcolour": "#6495ED",
+  "name": "Alfred Freddy Krupa",
+  "imagesize": "220px",
+  "caption": "Alfred Freddy Krupa",
+  "birthName": "Alfred Krupa",
+  "birthDate": {
+    "date": "1971-06-14T07:00:00.000Z",
+    "age": 46
+  },
+  "birthPlace": "Karlovac, Yugoslavia",
+  "nationality": "Croatian",
+  "field": "Painting, Drawing, Artists Books",
+  "training": [
+    "Academy of Fine Arts, University of Zagreb",
+    "Tokyo Gakugei University"
+  ],
+  "movement": "Informalism",
+  "works": "\"Roots - Korijeni\"",
+  "influenced": "Franz Kline",
+  "awards": "»Councillor Special Prize« at the 3rd International Exhibition of the Chinese Calligraphy and Ink Painting, Anshan (China), Medal Marshal Trompowsky, Matto Grosso do Sul (Brasil), Croatian Association of Artists Zagreb Annual Award for 2016 (Croatia) and many others",
+  "summary": "",
+  "sign": "Gemini"
+}

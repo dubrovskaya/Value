@@ -1,0 +1,20 @@
+{
+  "bgcolour": "#6495ED",
+  "name": "Thomas Schütte",
+  "imagesize": "300px",
+  "caption": "Hirshhorn Museum and Sculpture Garden",
+  "birthDate": {
+    "date": "1954-11-16T08:00:00.000Z",
+    "age": 63
+  },
+  "birthPlace": "Oldenburg",
+  "nationality": "Germany",
+  "field": "Sculpture",
+  "training": "Kunstakademie Düsseldorf",
+  "influencedBy": [
+    "Gerhard Richter",
+    "Fritz Schwegler"
+  ],
+  "summary": "Thomas Schütte (born November 16, 1954) is a German contemporary artist. He lives and works in Düsseldorf.",
+  "sign": "Scorpio"
+}

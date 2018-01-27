@@ -1,0 +1,24 @@
+{
+  "bgcolour": "#6495ED",
+  "name": "Ed Paschke",
+  "image": "EdPaschkeStudio.jpg",
+  "caption": "Ed Paschke in his studio",
+  "birthDate": {
+    "date": "1939-06-22T07:00:00.000Z",
+    "age": 78
+  },
+  "birthPlace": "Chicago",
+  "deathDate": {
+    "date": "2004-11-25T08:00:00.000Z",
+    "age": 65
+  },
+  "deathPlace": [
+    "Chicago",
+    "Illinois"
+  ],
+  "nationality": "United States",
+  "field": "Painting",
+  "training": "Art Institute of Chicago",
+  "summary": "Edward Francis Paschke (June 22, 1939 – November 25, 2004) was an American painter of Polish descent. His childhood interest in animation and cartoons, as well as his father's creativity in wood carving and construction, led him toward a career in art. As a student at the School of the Art Institute of Chicago he was influenced by many artists featured in the Museum's special exhibitions, in particular the work of Gauguin, Picasso and Seurat.",
+  "sign": "Cancer"
+}

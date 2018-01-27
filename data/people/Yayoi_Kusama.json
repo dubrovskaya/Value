@@ -1,0 +1,33 @@
+{
+  "name": "Yayoi Kusama",
+  "image": "Yayoi Kusama cropped 1 Yayoi Kusama 201611.jpg",
+  "caption": "Yayoi Kusama",
+  "birthName": "Yayoi Kusama",
+  "birthDate": {
+    "date": "1929-03-22T07:00:00.000Z",
+    "age": 88
+  },
+  "birthPlace": "Matsumoto, Nagano",
+  "nationality": "Japanese",
+  "field": [
+    "Painting",
+    "drawing",
+    "sculpture",
+    "installation art",
+    "performance art",
+    "film",
+    "fiction",
+    "fashion",
+    "writer"
+  ],
+  "movement": [
+    "Pop art",
+    "minimalism",
+    "feminist art",
+    "environmental art"
+  ],
+  "website": "http://www.yayoi-kusama.jp",
+  "awards": "Praemium Imperiale",
+  "summary": "Yayoi Kusama (草間 彌生, Kusama Yayoi, born March 22, 1929) is a Japanese contemporary artist who works primarily in sculpture and installation, but is also active in painting, performance, film, fashion, poetry, fiction and other arts. During the 1960s she was a part of the New York avant-garde scene, especially in the pop-art movement. Since participating in the Japanese pavilion at the Venice Biennale in 1993 she has been exhibiting actively and has gained widespread international recognition. In 2017 a fifty-year retrospective of her work opened at the Hirshhorn Museum in Washington DC. Also that year the Yayoi Kusama Museum was inaugurated in Tokyo.",
+  "sign": "Aries"
+}

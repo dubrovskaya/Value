@@ -1,0 +1,28 @@
+{
+  "bgcolour": "#6495ED",
+  "name": "Jason Rhoades",
+  "birthDate": {
+    "date": "1965-07-09T07:00:00.000Z",
+    "age": 52
+  },
+  "birthPlace": "Newcastle, California",
+  "deathDate": {
+    "date": "2006-08-01T07:00:00.000Z",
+    "age": 41
+  },
+  "deathPlace": [
+    "Los Angeles",
+    "California",
+    "United States"
+  ],
+  "nationality": "United States",
+  "field": "Installation art",
+  "training": [
+    "University of California, Los Angeles",
+    "California College of the Arts",
+    "San Francisco Art Institute",
+    "Skowhegan School of Painting and Sculpture"
+  ],
+  "summary": "Jason Rhoades (July 9, 1965 – August 1, 2006) was an installation artist who enjoyed critical acclaim, if not widespread public recognition, at the time of his death, and who was eulogized by some critics as one of the most significant artists of his generation. Better known in Europe, where he exhibited regularly for the last twelve years of his life, Rhoades was recently celebrated for his combination dinner party/exhibitions that feature violet neon signs with African, Caribbean, Creole and hip-hop slang for the female genitalia. His work remains part of the permanent collection in the Rubell Family Collection in Miami, where he was a part of exhibit \"Beg Borrow and Steal\" at the time of his death.",
+  "sign": "Cancer"
+}

@@ -1,0 +1,15 @@
+{
+  "bgcolour": "#6495ED",
+  "name": "Christian Boltanski",
+  "image": "Christian-Boltanski-portrait.jpg",
+  "caption": "Christian Boltanski in 1990.",
+  "birthDate": {
+    "date": "1944-09-06T07:00:00.000Z",
+    "age": 73
+  },
+  "birthPlace": "Paris, France",
+  "nationality": "French",
+  "field": "Installation art",
+  "summary": "Christian Boltanski (born 1944) is a French sculptor, photographer, painter and film maker, most well known for his photography installations and contemporary French Conceptual style.\n\nHe is the brother of Luc Boltanski and the partner of Annette Messager. The writer Christophe Boltanski is his nephew.",
+  "sign": "Virgo"
+}

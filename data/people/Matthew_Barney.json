@@ -1,0 +1,23 @@
+{
+  "name": "Matthew Barney",
+  "image": "Matthew-Barney-1.jpg",
+  "imagesize": "220px",
+  "caption": "Matthew Barney (2007)",
+  "birthDate": {
+    "date": "1967-03-25T07:00:00.000Z",
+    "age": 50
+  },
+  "birthPlace": "San Francisco",
+  "partner": "Björk",
+  "children": "Isadora Bjarkardottir Barney",
+  "nationality": "American",
+  "field": [
+    "video art",
+    "sculpture",
+    "photography"
+  ],
+  "training": "Yale University",
+  "awards": "Hugo Boss Prize",
+  "summary": "Matthew Barney (born March 25, 1967) is an American artist who works in sculpture, photography, drawing and film. His early works are sculptural installations combined with performance and video. Between 1994 and 2002 he created The Cremaster Cycle, a series of five films described by Jonathan Jones in The Guardian as \"one of the most imaginative and brilliant achievements in the history of avant-garde cinema.\" He is also known for Drawing Restraint 9 (2005), as well as his past relationship with Icelandic musician Björk.",
+  "sign": "Aries"
+}

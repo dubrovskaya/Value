@@ -1,0 +1,22 @@
+{
+  "bgcolour": "#6495ED",
+  "name": "Felix Gonzalez-Torres",
+  "image": "Félix González-Torres.jpg",
+  "birthDate": {
+    "date": "1957-11-26T08:00:00.000Z",
+    "age": 60
+  },
+  "birthPlace": "Guáimaro",
+  "deathDate": {
+    "date": "1996-01-09T08:00:00.000Z",
+    "age": 38
+  },
+  "deathPlace": "Miami, Florida",
+  "nationality": "United States",
+  "field": [
+    "Sculpture",
+    "Installation art"
+  ],
+  "summary": "Felix Gonzalez-Torres (November 26, 1957 – January 9, 1996) was a Cuban-born American visual artist. Gonzalez-Torres’s openly gay sexual orientation is often seen as influential in his work as an artist. Gonzalez-Torres was known for his minimal installations and sculptures in which he used materials such as strings of lightbulbs, clocks, stacks of paper, or packaged hard candies. In 1987, he joined Group Material, a New York-based group of artists whose intention was to work collaboratively, adhering to principles of cultural activism and community education. Gonzalez-Torres's 1992 piece \"Untitled\" (Portrait of Marcel Brient) sold for $4.6 million at Phillips de Pury & Company in 2010, a record for the artist at auction.",
+  "sign": "Sagittarius"
+}

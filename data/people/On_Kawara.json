@@ -1,0 +1,21 @@
+{
+  "name": "On Kawara",
+  "image": "On_Kawara_2.png",
+  "birthDate": {
+    "date": "1932-12-24T08:00:00.000Z",
+    "age": 85
+  },
+  "birthPlace": "Kariya, Aichi",
+  "deathDate": {
+    "date": "2014-07-10T07:00:00.000Z",
+    "age": 81
+  },
+  "deathPlace": "New York City",
+  "nationality": "Japan",
+  "field": [
+    "Visual art",
+    "conceptual art"
+  ],
+  "summary": "On Kawara (河原 温, Kawara On, December 24, 1932 – July 10, 2014) was a Japanese conceptual artist who lived in New York City from 1965. He took part in many solo and group exhibitions, including the Venice Biennale in 1976.",
+  "sign": "Capricorn"
+}

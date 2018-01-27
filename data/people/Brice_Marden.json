@@ -1,0 +1,26 @@
+{
+  "name": "Brice Marden",
+  "birthName": "Nicholas Brice Marden Jr",
+  "birthDate": {
+    "date": "1938-10-15T07:00:00.000Z",
+    "age": 79
+  },
+  "birthPlace": "Bronxville, New York",
+  "nationality": "American",
+  "movement": "Minimalism",
+  "awards": "American Academy of Arts and Letters",
+  "bgcolour": "#6495ED",
+  "imagesize": "150 px",
+  "field": "Painting",
+  "training": [
+    "Bachelor of Fine Arts",
+    "Boston University"
+  ],
+  "works": "Cold Mountain series",
+  "influencedBy": [
+    "Jasper Johns",
+    "Robert Rauschenberg"
+  ],
+  "summary": "Brice Marden (born October 15, 1938), is an American artist, generally described as Minimalist, although his work may be hard to categorize. He lives and works in New York City; Tivoli, New York; Hydra, Greece; and Eagles Mere, Pennsylvania.",
+  "sign": "Libra"
+}

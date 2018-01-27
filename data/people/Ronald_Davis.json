@@ -1,0 +1,29 @@
+{
+  "bgcolour": "Silver",
+  "name": "Ronald Davis",
+  "image": "P0055av Ring.jpg",
+  "imagesize": "300px",
+  "caption": [
+    "Museum of Modern Art",
+    "New York City"
+  ],
+  "birthDate": "birth-date",
+  "birthPlace": "Santa Monica, California",
+  "nationality": "United States",
+  "field": "Painting",
+  "training": [
+    "University of Wyoming",
+    "San Francisco Art Institute"
+  ],
+  "movement": [
+    "Abstract Expressionism",
+    "Geometric abstraction",
+    "Abstract Illusionism",
+    "Lyrical Abstraction",
+    "Hard-edge painting",
+    "Shaped canvas"
+  ],
+  "awards": "1962 Yale-Norfolk Summer School Grantee",
+  "summary": "Ronald \"Ron\" Davis (born 1937), is an American painter whose work is associated with Geometric abstraction, Abstract Illusionism, Lyrical Abstraction, Hard-edge painting, Shaped canvas painting, Color field painting, and 3D Computer Graphics. He is a veteran of nearly seventy solo exhibitions and hundreds of group exhibitions.",
+  "sign": "n/a"
+}

@@ -1,0 +1,35 @@
+{
+  "bgcolour": "#6495ED",
+  "name": "Richard Diebenkorn",
+  "image": "Richard Diebenkorn.jpg",
+  "imagesize": "200px",
+  "caption": "Richard Diebenkorn in 1986",
+  "birthDate": {
+    "date": "1922-04-22T07:00:00.000Z",
+    "age": 95
+  },
+  "birthPlace": "Portland, Oregon",
+  "deathDate": {
+    "date": "1993-03-30T08:00:00.000Z",
+    "age": 70
+  },
+  "deathPlace": "Berkeley, California",
+  "nationality": "United States",
+  "field": "Painting",
+  "movement": [
+    "Bay Area Figurative Movement",
+    "abstract expressionism",
+    "Color Field painting",
+    "lyrical abstraction"
+  ],
+  "influencedBy": [
+    "Edward Hopper",
+    "Willem de Kooning",
+    "Clyfford Still",
+    "Arshile Gorky",
+    "Henri Matisse"
+  ],
+  "influenced": "Bay Area Figurative Movement",
+  "summary": "Richard Diebenkorn (April 22, 1922 – March 30, 1993) was an American painter. His early work is associated with abstract expressionism and the Bay Area Figurative Movement of the 1950s and 1960s. His later work (best known as the Ocean Park paintings) were instrumental to his achievement of worldwide acclaim.",
+  "sign": "Taurus"
+}

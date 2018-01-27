@@ -1,0 +1,28 @@
+{
+  "name": "Robert Graham",
+  "image": "Detail of front doors of Spalding House by Robert Graham, cast bronze, 1988.jpg",
+  "caption": "Spalding House",
+  "birthDate": {
+    "date": "1938-08-19T07:00:00.000Z",
+    "age": 79
+  },
+  "birthPlace": "Mexico City",
+  "deathDate": {
+    "date": "2008-12-27T08:00:00.000Z",
+    "age": 70
+  },
+  "deathPlace": [
+    "Santa Monica, California",
+    "United States"
+  ],
+  "field": "Sculpture",
+  "training": [
+    "San Jose State College",
+    "San Francisco Art Institute"
+  ],
+  "works": "Los Angeles Memorial Coliseum",
+  "spouse": "marriage",
+  "website": "url",
+  "summary": "Robert Graham (August 19, 1938 – December 27, 2008) was a sculptor based in the state of California in the United States. His monumental bronzes commemorate the human figure, and are featured in public places across America.",
+  "sign": "Leo"
+}

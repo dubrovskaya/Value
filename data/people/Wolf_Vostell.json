@@ -1,0 +1,31 @@
+{
+  "bgcolour": "#6495ED",
+  "name": "Wolf Vostell",
+  "image": "Wolf Vostell, 1980 in Spain.jpg",
+  "caption": "Wolf Vostell, 1980",
+  "birthDate": {
+    "date": "1932-10-14T07:00:00.000Z",
+    "age": 85
+  },
+  "birthPlace": "Leverkusen",
+  "deathDate": {
+    "date": "1998-04-03T08:00:00.000Z",
+    "age": 65
+  },
+  "deathPlace": "Berlin",
+  "nationality": "German",
+  "field": [
+    "Painting",
+    "Sculpture",
+    "Installation art",
+    "Video art",
+    "Dé-collage"
+  ],
+  "training": "Kunstakademie Düsseldorf",
+  "movement": [
+    "Happening",
+    "Fluxus"
+  ],
+  "summary": "Wolf Vostell (14 October 1932 – 3 April 1998) was a German painter and sculptor, considered one of the early adopters of video art and installation art and pioneer of Happening and Fluxus. Techniques such as blurring and Dé-coll/age are characteristic of his work, as is embedding objects in concrete and the use of television sets in his works.",
+  "sign": "Libra"
+}

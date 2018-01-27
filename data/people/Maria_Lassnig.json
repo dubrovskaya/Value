@@ -1,0 +1,23 @@
+{
+  "name": "Maria Lassnig",
+  "image": "Maria Lassnig 2009.jpg",
+  "birthDate": {
+    "date": "1919-09-08T07:00:00.000Z",
+    "age": 98
+  },
+  "birthPlace": "Kappel am Krappfeld",
+  "deathDate": {
+    "date": "2014-05-06T07:00:00.000Z",
+    "age": 94
+  },
+  "deathPlace": [
+    "Vienna",
+    "First Austrian Republic"
+  ],
+  "nationality": "Austrian",
+  "field": "Painting",
+  "awards": "Grand Austrian State Prize",
+  "bgcolour": "LightSteelBlue",
+  "summary": "Maria Lassnig (8 September 1919 – 6 May 2014) was an Austrian artist known for her painted self-portraits and her theory of \"body awareness\". She was the first female artist to win the Grand Austrian State Prize in 1988 and was awarded the Austrian Decoration for Science and Art in 2005. Lassnig lived and taught in Vienna from 1980 until her death.",
+  "sign": "Virgo"
+}

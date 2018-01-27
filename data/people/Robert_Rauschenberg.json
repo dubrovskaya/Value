@@ -1,0 +1,33 @@
+{
+  "name": "Robert Rauschenberg",
+  "image": "Robert Rauschenberg (1968).jpg",
+  "caption": "Robert Rauschenberg (1968)",
+  "birthName": "Milton Ernest Rauschenberg",
+  "birthDate": {
+    "date": "1925-10-22T07:00:00.000Z",
+    "age": 92
+  },
+  "birthPlace": "Port Arthur, Texas",
+  "deathDate": {
+    "date": "2008-05-12T07:00:00.000Z",
+    "age": 82
+  },
+  "deathPlace": "Captiva, Florida",
+  "nationality": "American",
+  "field": "Assemblage (art)",
+  "training": [
+    "Kansas City Art Institute",
+    "Académie Julian",
+    "Black Mountain College",
+    "Art Students League of New York"
+  ],
+  "movement": [
+    "Neo-Dada",
+    "Abstract Expressionism"
+  ],
+  "works": "Canyon (Rauschenberg)",
+  "awards": "Leonardo da Vinci World Award of Arts",
+  "spouse": "marriage",
+  "summary": "Milton Ernest \"Robert\" Rauschenberg (October 22, 1925 – May 12, 2008) was an American painter and graphic artist whose early works anticipated the pop art movement. Rauschenberg is well known for his \"Combines\" of the 1950s, in which non-traditional materials and objects were employed in innovative combinations. Rauschenberg was both a painter and a sculptor and the Combines are a combination of both, but he also worked with photography, printmaking, papermaking, and performance.\nHe was awarded the National Medal of Arts in 1993. He became the recipient of the Leonardo da Vinci World Award of Arts in 1995 in recognition of his more than 40 years of fruitful artmaking.\nRauschenberg lived and worked in New York City as well as on Captiva Island, Florida until his death from heart failure on May 12, 2008.",
+  "sign": "Libra"
+}

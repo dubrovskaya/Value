@@ -1,0 +1,27 @@
+{
+  "name": "Donald Judd",
+  "image": "Donald_Judd.png",
+  "caption": "Donald Judd.",
+  "birthName": "Donald Clarence Judd",
+  "birthDate": {
+    "date": "1928-06-03T07:00:00.000Z",
+    "age": 89
+  },
+  "birthPlace": "Excelsior Springs",
+  "deathDate": {
+    "date": "1994-02-12T08:00:00.000Z",
+    "age": 65
+  },
+  "deathPlace": "Manhattan, New York",
+  "nationality": "American",
+  "field": "Sculpture",
+  "training": [
+    "College of William and Mary",
+    "Columbia University School of General Studies",
+    "Art Students League of New York"
+  ],
+  "movement": "Minimalism",
+  "patrons": "Dia Art Foundation",
+  "summary": "Donald Judd (June 3, 1928 – February 12, 1994) was an American artist associated with minimalism (a term he nonetheless stridently disavowed). In his work, Judd sought autonomy and clarity for the constructed object and the space created by it, ultimately achieving a rigorously democratic presentation without compositional hierarchy. It created an outpouring of seemingly effervescent works that defied the term \"minimalism\". Nevertheless, he is generally considered the leading international exponent of \"minimalism,\" and its most important theoretician through such seminal writings as \"Specific Objects\" (1964).",
+  "sign": "Gemini"
+}

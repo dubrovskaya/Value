@@ -1,0 +1,29 @@
+{
+  "bgcolour": "#76A8FF",
+  "name": "Dan Christensen",
+  "birthDate": {
+    "date": "1942-10-06T07:00:00.000Z",
+    "age": 75
+  },
+  "birthPlace": "Cozad, Nebraska",
+  "deathDate": {
+    "date": "2007-01-20T08:00:00.000Z",
+    "age": 64
+  },
+  "deathPlace": "East Hampton (town), New York",
+  "nationality": "United States",
+  "field": "Abstract painting",
+  "training": [
+    "Kansas City Art Institute",
+    "University of Indiana"
+  ],
+  "movement": [
+    "Abstract Expressionism",
+    "Post-minimalism",
+    "Color Field painting",
+    "Lyrical Abstraction"
+  ],
+  "awards": "Guggenheim fellowship",
+  "summary": "Dan Christensen, the American abstract painter, was born in Cozad, Nebraska on October 6, 1942, he died in Easthampton, New York on January 20, 2007. He is best known for paintings that relate to Lyrical Abstraction, Color field painting and Abstract expressionism.\nHis early work from 1965-1966 was related to Minimalism. A graduate of the Kansas City Art Institute, class of 1964, Dan Christensen moved to New York City from the Mid-West during the late summer of 1965. Christensen was represented by several influential galleries including the Andre Emmerich Gallery, the Salander/O'Reilly Gallery and various others throughout the United States and Europe. He has had more than seventy-five solo exhibitions and his work has been included in hundreds of group exhibitions. His paintings are in important museum collections throughout the United States and Europe.",
+  "sign": "Libra"
+}

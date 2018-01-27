@@ -1,0 +1,28 @@
+{
+  "name": "Agnes Martin",
+  "birthName": "Agnes Bernice Martin",
+  "birthDate": {
+    "date": "1912-03-22T07:00:00.000Z",
+    "age": 105
+  },
+  "birthPlace": "Macklin, Saskatchewan",
+  "deathDate": {
+    "date": "2004-12-16T08:00:00.000Z",
+    "age": 92
+  },
+  "deathPlace": [
+    "Taos, New Mexico",
+    "United States"
+  ],
+  "nationality": "American",
+  "field": "Painting",
+  "training": [
+    "Western Washington University",
+    "Teachers College, Columbia University",
+    "University of New Mexico"
+  ],
+  "movement": "Abstract expressionism",
+  "bgcolour": "orange",
+  "summary": "Agnes Bernice Martin (March 22, 1912 – December 16, 2004), born in Canada, was an American abstract painter. Her work has been defined as an \"essay in discretion on inward-ness and silence\". Although she is often considered or referred to as a minimalist, Martin considered herself an abstract expressionist.\nShe was awarded a National Medal of Arts from the National Endowment for the Arts in 1998.",
+  "sign": "Aries"
+}

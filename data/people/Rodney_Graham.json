@@ -1,0 +1,23 @@
+{
+  "name": "post-nominals",
+  "image": "Public art.jpg",
+  "imagesize": "thumb",
+  "caption": "park's public art – \"Aerodynamic Forms in Space\" by Rodney Graham",
+  "birthName": "William Rodney Graham",
+  "birthDate": {
+    "date": "1949-01-16T08:00:00.000Z",
+    "age": 69
+  },
+  "birthPlace": "Abbotsford, British Columbia",
+  "nationality": "Canadian",
+  "field": "video art",
+  "training": "University of British Columbia",
+  "movement": "Vancouver School",
+  "works": "Vexation Island (1997)",
+  "influencedBy": [
+    "Ian Wallace (artist)",
+    "Jeff Wall"
+  ],
+  "summary": "Rodney Graham  (born January 16, 1949) is an artist and musician born in Abbotsford, British Columbia. He is most often associated with the Vancouver School. He lives in Vancouver and is married to the artist Shannon Oksanen. Though they have not divorced, she lives separately with her two children and their father.",
+  "sign": "Capricorn"
+}

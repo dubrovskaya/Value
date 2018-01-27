@@ -1,0 +1,19 @@
+{
+  "imageSize": "120px",
+  "birthName": "Graham Nicholls",
+  "birthDate": {
+    "date": "1975-07-30T07:00:00.000Z",
+    "age": 42
+  },
+  "birthPlace": "London, England",
+  "nationality": "British",
+  "knownFor": [
+    "out-of-body experience",
+    "Installation art"
+  ],
+  "occupation": "Author, speaker and artist",
+  "yearsActive": "Since 1999",
+  "website": "[http://www.grahamnicholls.com/ www.grahamnicholls.com]",
+  "summary": "Graham Nicholls (born 30 July 1975 in London, England) is an author, installation artist and specialist on out of body experiences. He speaks widely on parapsychology, ethics and art at institutions ranging from the London Science Museum, The Society for Psychical Research to the Cambridge Union Society.",
+  "sign": "Leo"
+}

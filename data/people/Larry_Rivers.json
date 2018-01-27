@@ -1,0 +1,29 @@
+{
+  "name": "Larry Rivers",
+  "image": "Larry Rivers.jpg",
+  "birthName": "Yitzroch Loiza Grossberg",
+  "birthDate": {
+    "date": "1923-08-17T07:00:00.000Z",
+    "age": 94
+  },
+  "birthPlace": "Bronx, New York",
+  "deathDate": {
+    "date": "2002-08-14T07:00:00.000Z",
+    "age": 79
+  },
+  "nationality": "United States",
+  "field": [
+    "Painting",
+    "sculpture"
+  ],
+  "training": "Hans Hofmann",
+  "movement": [
+    "East Coast of the United States",
+    "figurative painting",
+    "new realism",
+    "pop art"
+  ],
+  "spouse": "Augusta Berger (m. 1945–?; divorced),Clarice Price (m. 1961–1967; divorced)",
+  "summary": "Larry Rivers (born Yitzroch Loiza Grossberg, August 17, 1923 – August 14, 2002) was an American artist, musician, filmmaker and occasional actor. Rivers resided and maintained studios in New York City, Southampton, Long Island, and Zihuatanejo, Mexico.",
+  "sign": "Leo"
+}

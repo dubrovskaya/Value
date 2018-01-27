@@ -1,0 +1,17 @@
+{
+  "name": "Hanne Darboven",
+  "birthDate": {
+    "date": "1941-04-29T07:00:00.000Z",
+    "age": 76
+  },
+  "birthPlace": "Munich",
+  "deathDate": {
+    "date": "2009-03-09T07:00:00.000Z",
+    "age": 67
+  },
+  "deathPlace": "Hamburg",
+  "training": "Hochschule für bildende Künste Hamburg",
+  "website": "http://www.hanne-darboven.org",
+  "summary": "Hanne Darboven (29 April 1941 – 9 March 2009) was a German conceptual artist, best known for her large scale minimalist installations consisting of handwritten tables of numbers.",
+  "sign": "Taurus"
+}

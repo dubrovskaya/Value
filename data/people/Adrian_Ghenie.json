@@ -1,0 +1,13 @@
+{
+  "bgcolour": "#76A8FF",
+  "name": "Adrian Ghenie",
+  "birthDate": {
+    "date": "1977-08-13T07:00:00.000Z",
+    "age": 40
+  },
+  "birthPlace": "Baia Mare",
+  "nationality": "Romanian",
+  "field": "Painting",
+  "summary": "Adrian Ghenie (born 13 August 1977, Baia Mare) is a contemporary Romanian painter.",
+  "sign": "Leo"
+}

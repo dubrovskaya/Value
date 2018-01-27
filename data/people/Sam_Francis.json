@@ -1,0 +1,27 @@
+{
+  "name": "Sam Francis",
+  "image": "Sam Francis in Paris c. 1955.jpg",
+  "caption": "Sam Francis in the early 1950s in a Paris cafe",
+  "birthName": "Samuel Lewis Francis",
+  "birthDate": {
+    "date": "1923-06-25T07:00:00.000Z",
+    "age": 94
+  },
+  "birthPlace": "San Mateo, California",
+  "deathDate": {
+    "date": "1994-11-04T08:00:00.000Z",
+    "age": 71
+  },
+  "deathPlace": "Santa Monica, California",
+  "nationality": "American",
+  "almaMater": "University of California, Berkeley",
+  "elected": "National Academy of Design (1994)",
+  "website": "http://www.samfrancisfoundation.com",
+  "bgcolour": "silver",
+  "field": [
+    "Painting",
+    "Printmaking"
+  ],
+  "summary": "Samuel Lewis Francis (June 25, 1923 – November 4, 1994) was an American painter and printmaker.",
+  "sign": "Cancer"
+}

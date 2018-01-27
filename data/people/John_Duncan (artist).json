@@ -1,0 +1,24 @@
+{
+  "name": "John Duncan",
+  "birthName": "John Duncan",
+  "birthDate": {
+    "date": "1953-06-17T07:00:00.000Z",
+    "age": 64
+  },
+  "birthPlace": "Wichita, Kansas",
+  "nationality": "American",
+  "field": [
+    "Performance Art",
+    "Video",
+    "Installation art",
+    "Experimental Music"
+  ],
+  "training": [
+    "California Institute of the Arts",
+    "Los Angeles"
+  ],
+  "works": "Scare, Blind Date, The Crackling, The Keening Towers, The Error, The Gauntlet",
+  "website": "http://www.johnduncan.org/",
+  "summary": "This page is about John Duncan the contemporary artist. For the Symbolist artist see John Duncan (painter).\nJohn Duncan is an artist currently living and working in Bologna (Italy). His body of work includes performance art, installations, contemporary music, video art and experimental film, often involving the extensive use of recorded sound. His music is composed mainly of recordings from shortwave radio, field recordings and voice. His events and installations are a form of existential research, often confrontational in nature.",
+  "sign": "Gemini"
+}

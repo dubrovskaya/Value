@@ -1,0 +1,11 @@
+{
+  "name": "Sam Dillemans",
+  "birthDate": {
+    "date": "1965-01-17T08:00:00.000Z",
+    "age": 53
+  },
+  "birthPlace": "Leuven",
+  "website": "http://www.sam-dillemans.com/",
+  "summary": "Sam Dillemans (born 17 January 1965) is a Belgian painter.",
+  "sign": "Capricorn"
+}

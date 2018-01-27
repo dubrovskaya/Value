@@ -1,0 +1,15 @@
+{
+  "name": "Jenny Saville",
+  "image": "Torso2.jpg",
+  "caption": "Saatchi Gallery",
+  "birthDate": {
+    "date": "1970-05-07T07:00:00.000Z",
+    "age": 47
+  },
+  "birthPlace": "Cambridge",
+  "nationality": "British",
+  "field": "Painting",
+  "movement": "Young British Artists",
+  "summary": "Jenny Saville  (born 7 May 1970) is a contemporary British painter associated with the Young British Artists. She is known for her large-scale painted depictions of nude women. Saville works and lives in Oxford, England.",
+  "sign": "Taurus"
+}

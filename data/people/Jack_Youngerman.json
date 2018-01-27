@@ -1,0 +1,18 @@
+{
+  "bgcolour": "#6495ED",
+  "name": "Jack Youngerman",
+  "birthDate": {
+    "date": "1926-03-25T07:00:00.000Z",
+    "age": 91
+  },
+  "birthPlace": "St. Louis, Missouri",
+  "nationality": "United States",
+  "field": "Painting",
+  "movement": [
+    "Minimalism",
+    "abstract art"
+  ],
+  "website": "http://www.jackyoungerman.com",
+  "summary": "Jack Youngerman (born March 25, 1926) is an artist known for his constructions and paintings.",
+  "sign": "Aries"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Elizabeth Murray",
+  "image": "Manhattanwiggle.jpg",
+  "caption": "Museum of Modern Art",
+  "birthDate": {
+    "date": "1940-09-06T07:00:00.000Z",
+    "age": 77
+  },
+  "birthPlace": "Chicago, Illinois",
+  "deathDate": {
+    "date": "2007-08-12T07:00:00.000Z",
+    "age": 66
+  },
+  "nationality": "United States",
+  "awards": "MacArthur Foundation Grant, Larry Aldrich Prize",
+  "field": [
+    "Painting",
+    "printmaking"
+  ],
+  "training": [
+    "School of the Art Institute of Chicago",
+    "Mills College"
+  ],
+  "works": "Do the Dance, Children Meeting, Painters' Progress, Careless Love, Blooming",
+  "children": "2",
+  "spouse": "Bob Holman",
+  "summary": "Elizabeth Murray (September 6, 1940 – August 12, 2007) was an American painter, printmaker and draughtsman. Her works are in many major public collections, including those of the Solomon R. Guggenheim Museum, the Hirshhorn Museum and Sculpture Garden, the Museum of Modern Art, the Whitney Museum of American Art, the San Francisco Museum of Modern Art, the Art Institute of Chicago, the Carnegie Museum of Art, and the Wadsworth Atheneum.",
+  "sign": "Virgo"
+}

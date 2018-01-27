@@ -1,0 +1,33 @@
+{
+  "name": "Wayne Thiebaud",
+  "image": "WayneThiebaudThreeMachines.jpg",
+  "imagesize": "300px",
+  "caption": [
+    "M. H. de Young Memorial Museum",
+    "San Francisco"
+  ],
+  "birthDate": {
+    "date": "1920-11-15T08:00:00.000Z",
+    "age": 97
+  },
+  "birthPlace": "Mesa, Arizona",
+  "nationality": "United States",
+  "movement": [
+    "Pop Art",
+    "New Realism",
+    "Bay Area Figurative Movement"
+  ],
+  "awards": "National Medal of Arts",
+  "bgcolour": "#CFCFC4",
+  "field": [
+    "Painting",
+    "Printmaking"
+  ],
+  "training": [
+    "Sacramento State College",
+    "San Jose State College",
+    "California State University, Sacramento"
+  ],
+  "summary": "Wayne Thiebaud (born November 15, 1920) is an American painter widely known for his colorful works depicting commonplace objects—pies, lipsticks, paint cans, ice cream cones, pastries, and hot dogs—as well as for his landscapes and figure paintings. Thiebaud is associated with the pop art movement because of his interest in objects of mass culture, although his early works, executed during the fifties and sixties, slightly predate the works of the classic pop artists. Thiebaud uses heavy pigment and exaggerated colors to depict his subjects, and the well-defined shadows characteristic of advertisements are almost always included in his work.",
+  "sign": "Scorpio"
+}

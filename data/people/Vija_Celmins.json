@@ -1,0 +1,37 @@
+{
+  "bgcolour": "#6495ED",
+  "name": "Vija Celmins",
+  "caption": "Vija Celmins, ca 1975",
+  "birthName": "Vija Celmiņa",
+  "birthDate": {
+    "date": "1938-10-25T07:00:00.000Z",
+    "age": 79
+  },
+  "birthPlace": "Riga",
+  "nationality": "United States",
+  "field": [
+    "Painting",
+    "Graphic art",
+    "Printmaking"
+  ],
+  "training": [
+    "John Herron School of Art",
+    "University of California at Los Angeles"
+  ],
+  "movement": "Abstract, Minimalism, Photorealism",
+  "influencedBy": [
+    "Chuck Close",
+    "Giorgio Morandi",
+    "Jasper Johns",
+    "Gerhard Richter"
+  ],
+  "awards": [
+    "Guggenheim Fellowship",
+    "National Endowment for the Arts",
+    "American Academy of Arts and Letters",
+    "Carnegie Prize",
+    "John D. and Catherine T. MacArthur Foundation"
+  ],
+  "summary": "Vija Celmins is an acclaimed Latvian-American visual artist best known for photo-realistic paintings and drawings of natural environments and phenomena such as the ocean, spider webs, star fields, and rocks. Her earlier work included pop sculptures and monochromatic representational paintings. Based in New York City, she has been the subject of over forty solo exhibitions since 1965, and major retrospectives at the Museum of Modern Art, Whitney Museum of American Art, Los Angeles County Museum of Art, Institute of Contemporary Arts, London, and Centre Pompidou, Paris.",
+  "sign": "Scorpio"
+}

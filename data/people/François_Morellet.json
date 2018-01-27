@@ -1,0 +1,18 @@
+{
+  "name": "François Morellet",
+  "image": "François Morellet (1995).png",
+  "birthName": "nowrap",
+  "birthDate": {
+    "date": "1926-04-30T07:00:00.000Z",
+    "age": 91
+  },
+  "birthPlace": "Cholet",
+  "deathPlace": "Cholet, France",
+  "deathDate": {
+    "date": "2016-05-10T07:00:00.000Z",
+    "age": 90
+  },
+  "occupation": "Painter, sculptor, artist",
+  "summary": "François Morellet (30 April 1926 – 10 May 2016) was a French contemporary painter, sculptor, and light artist. His early work prefigured minimal art and conceptual art, and he played a prominent role in the development of geometrical abstract art.",
+  "sign": "Taurus"
+}

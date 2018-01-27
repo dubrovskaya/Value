@@ -1,0 +1,25 @@
+{
+  "name": "Jim Dine",
+  "image": "2008-05-16-Boras-Sweden-Jim-Dine-Pinocchio-Photo-by-David-Thast.-Diform.jpg",
+  "caption": "Borås",
+  "birthName": "Jim Dine",
+  "birthDate": {
+    "date": "1935-06-16T07:00:00.000Z",
+    "age": 82
+  },
+  "birthPlace": "Cincinnati, Ohio",
+  "nationality": "American",
+  "field": [
+    "painting",
+    "drawing",
+    "sculpture",
+    "printmaking"
+  ],
+  "training": "Ohio University",
+  "movement": [
+    "Neo-Dada",
+    "Pop Art"
+  ],
+  "summary": "Jim Dine (born June 16, 1935) is an American pop artist. He is sometimes considered to be a part of the Neo-Dada movement.",
+  "sign": "Gemini"
+}

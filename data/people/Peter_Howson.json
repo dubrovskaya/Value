@@ -1,0 +1,16 @@
+{
+  "name": "Peter Howson",
+  "birthDate": {
+    "date": "1958-03-27T07:00:00.000Z",
+    "age": 59
+  },
+  "birthPlace": "London, England",
+  "nationality": [
+    "Scotland",
+    "UK"
+  ],
+  "field": "Painting",
+  "training": "Glasgow School of Art",
+  "summary": "Peter Howson OBE (born London, England, 27 March 1958) is a Scottish painter. He was the British official war artist in the 1993 Bosnian Civil War.",
+  "sign": "Aries"
+}

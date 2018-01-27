@@ -1,0 +1,22 @@
+{
+  "bgcolour": "#6495ED",
+  "name": "Richard Tuttle",
+  "birthDate": {
+    "date": "1941-07-12T07:00:00.000Z",
+    "age": 76
+  },
+  "birthPlace": "Rahway, New Jersey",
+  "nationality": "United States",
+  "field": [
+    "Painting",
+    "Sculpture",
+    "Installation art"
+  ],
+  "training": "Trinity College (Connecticut)",
+  "movement": "Postminimalism",
+  "works": "Paper Octagonals (1970),",
+  "influencedBy": "Agnes Martin",
+  "awards": "Skowhegan Medal for Sculpture (1998), Aachen Art Prize (1998)",
+  "summary": "Richard Dean Tuttle (born July 12, 1941) is an American postminimalist artist known for his small, subtle, intimate works. His art makes use of scale and line. His works span a range of media, from sculpture, painting, drawing, printmaking, and artist’s books to installation and furniture. He lives and works in New York City, Abiquiú, New Mexico, and Mount Desert, Maine.",
+  "sign": "Cancer"
+}

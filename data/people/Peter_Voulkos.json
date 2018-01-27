@@ -1,0 +1,28 @@
+{
+  "name": "Peter Voulkos",
+  "image": "Voulkos 1996.jpg",
+  "caption": "Peter Voulkos works on a stack, 1996",
+  "birthName": "Panagiotis Voulkos",
+  "birthDate": {
+    "date": "1924-01-29T08:00:00.000Z",
+    "age": 94
+  },
+  "birthPlace": "Bozeman, Montana",
+  "deathDate": {
+    "date": "2002-02-16T08:00:00.000Z",
+    "age": 78
+  },
+  "deathPlace": "Bowling Green, Ohio",
+  "nationality": "American",
+  "field": [
+    "Ceramic art",
+    "Sculpture"
+  ],
+  "training": [
+    "Montana State University - Bozeman",
+    "California College of the Arts"
+  ],
+  "movement": "Abstract expressionist",
+  "summary": "Peter Voulkos (popular name of Panagiotis Voulkos; January 29, 1924 – February 16, 2002) was an American artist of Greek descent. He is known for his abstract expressionist ceramic sculptures, which crossed the traditional divide between ceramic crafts and fine art. While his early work was fired in electric and gas kilns, later in his career he primarily fired in the anagama kiln of Peter Callas, who had helped to introduce Japanese wood firing aesthetics in the United States.\n\n",
+  "sign": "Aquarius"
+}

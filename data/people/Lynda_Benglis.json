@@ -1,0 +1,17 @@
+{
+  "name": "Lynda Benglis",
+  "image": "Benglis from Arti.jpg",
+  "caption": "Benglis in a 1974 photograph",
+  "birthDate": {
+    "date": "1941-10-25T07:00:00.000Z",
+    "age": 76
+  },
+  "birthPlace": "Lake Charles, Louisiana",
+  "nationality": "American",
+  "field": [
+    "Sculptor",
+    "Painting"
+  ],
+  "summary": "Lynda Benglis (born October 25, 1941) is an American sculptor and visual artist known especially for her wax paintings and poured latex sculptures. She currently lives between New York City; Santa Fe; Kastelorizo, Greece; and Ahmedabad, India.",
+  "sign": "Scorpio"
+}

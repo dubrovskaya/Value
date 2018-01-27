@@ -1,0 +1,19 @@
+{
+  "bgcolour": "#6495ED",
+  "name": "Peter Young",
+  "birthName": "Peter Ford Young",
+  "birthDate": {
+    "date": "1940-01-02T08:00:00.000Z",
+    "age": 78
+  },
+  "birthPlace": "Pittsburgh",
+  "nationality": "United States",
+  "field": "Abstract painting",
+  "movement": [
+    "Abstract Expressionism",
+    "Post-minimalism",
+    "Lyrical Abstraction"
+  ],
+  "summary": "Peter Young, (born January 2, 1940, Pittsburgh, Pennsylvania) is an American painter. He is primarily known for his abstract paintings that have been widely exhibited in the United States and in Europe since the 1960s. His work is associated with Minimal Art, Post-minimalism, and Lyrical Abstraction. Young has participated in more than a hundred group exhibitions and he has had more than forty solo exhibitions in important contemporary art galleries throughout his career. He currently lives in Bisbee, Arizona.",
+  "sign": "Capricorn"
+}

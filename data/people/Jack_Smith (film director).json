@@ -1,0 +1,15 @@
+{
+  "name": "Jack Smith",
+  "image": "Jack Smith film director.jpg",
+  "birthDate": {
+    "date": "1932-11-14T08:00:00.000Z",
+    "age": 85
+  },
+  "birthPlace": "Columbus, Ohio",
+  "deathDate": "dda",
+  "deathPlace": "New York City, New York",
+  "occupation": "Filmmaker, actor, photographer",
+  "knownFor": "Flaming Creatures",
+  "summary": "Jack Smith (November 14, 1932 – September 25, 1989) was an American filmmaker, actor, and pioneer of underground cinema. He is generally acclaimed as a founding father of American performance art, and has been critically recognized as a master photographer, though his photographic works are rare and remain largely unknown.",
+  "sign": "Scorpio"
+}

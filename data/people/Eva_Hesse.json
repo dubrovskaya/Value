@@ -1,0 +1,27 @@
+{
+  "name": "Eva Hesse",
+  "image": "Eva_Hesse_in_her_studio_in_1965._'No_Title'_(1966).jpg",
+  "caption": "Eva Hesse in her studio in 1965.",
+  "birthDate": {
+    "date": "1936-01-11T08:00:00.000Z",
+    "age": 82
+  },
+  "birthPlace": "Hamburg",
+  "deathDate": {
+    "date": "1970-05-29T07:00:00.000Z",
+    "age": 34
+  },
+  "deathPlace": "New York City",
+  "nationality": "American",
+  "field": "Sculpture",
+  "training": [
+    "Yale",
+    "Cooper Union",
+    "Pratt Institute",
+    "Art Students League of New York"
+  ],
+  "movement": "Postminimalism",
+  "spouse": "Tom Doyle (1962-66; divorced)",
+  "summary": "Eva Hesse (January 11, 1936 – May 29, 1970), was a Jewish German-born American sculptor, known for her pioneering work in materials such as latex, fiberglass, and plastics. She is one of the artists who ushered in the postminimal art movement in the 1960s.",
+  "sign": "Capricorn"
+}

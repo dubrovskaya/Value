@@ -1,0 +1,14 @@
+{
+  "name": "Robert Longo",
+  "birthDate": {
+    "date": "1953-01-07T08:00:00.000Z",
+    "age": 65
+  },
+  "birthPlace": "Brooklyn",
+  "almaMater": "Buffalo State College",
+  "occupation": "Painter, sculptor",
+  "spouse": "marriage",
+  "children": "1",
+  "summary": "Robert Longo (born January 7, 1953) is an American painter and sculptor. Longo became a rising star in the 1980s for his \"Men in the Cities\" series, which depicted sharply dressed men and women writhing in contorted emotion.",
+  "sign": "Capricorn"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Ian Davenport",
+  "birthDate": {
+    "date": "1966-07-08T07:00:00.000Z",
+    "age": 51
+  },
+  "birthPlace": "Sidcup",
+  "nationality": "British",
+  "field": "Printmaking",
+  "training": "Goldsmiths College",
+  "summary": "Ian Davenport (born 8 July 1966) is an English abstract painter, and former Turner Prize nominee.",
+  "sign": "Cancer"
+}

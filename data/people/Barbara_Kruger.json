@@ -1,0 +1,21 @@
+{
+  "name": "Barbara Kruger",
+  "image": "Barbara Kruger at ACCA, Melbourne.jpg",
+  "caption": "Barbara Kruger at ACCA, Melbourne",
+  "birthDate": {
+    "date": "1945-01-26T08:00:00.000Z",
+    "age": 73
+  },
+  "birthPlace": "Newark, New Jersey",
+  "nationality": "American",
+  "bgcolour": "#6495ED",
+  "field": "Visual Art",
+  "training": [
+    "Syracuse University",
+    "Parsons School of Design",
+    "New York City"
+  ],
+  "works": "I shop therefore I am (1987) and Your body is a battleground (1985)",
+  "summary": "Barbara Kruger (born January 26, 1945) is an American conceptual artist and collagist. Much of her work consists of black-and-white photographs overlaid with declarative captions—in white-on-red Futura Bold Oblique or Helvetica Ultra Condensed. The phrases in her works often include pronouns such as \"you\", \"your\", \"I\", \"we\", and \"they\", addressing cultural constructions of power, identity, and sexuality. Kruger currently lives and works in New York and Los Angeles.\n\n",
+  "sign": "Aquarius"
+}

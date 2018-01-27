@@ -1,0 +1,25 @@
+{
+  "name": "Alighiero Boetti",
+  "image": "AlighieroBoetti.jpg",
+  "imagesize": "200px",
+  "caption": "Alighiero e Boetti Self Portrait, 1977",
+  "birthName": "Alighiero Fabrizio Boetti",
+  "birthDate": {
+    "date": "1940-12-16T08:00:00.000Z",
+    "age": 77
+  },
+  "birthPlace": "Turin",
+  "deathDate": {
+    "date": "1994-02-24T08:00:00.000Z",
+    "age": 53
+  },
+  "deathPlace": "Rome",
+  "nationality": "Italian",
+  "field": [
+    "Painting",
+    "Mixed media"
+  ],
+  "movement": "Arte Povera",
+  "summary": "Alighiero Fabrizio Boetti known as Alighiero e Boetti (16 December 1940 – 24 February 1994) was an Italian conceptual artist, considered to be a member of the art movement Arte Povera.",
+  "sign": "Sagittarius"
+}

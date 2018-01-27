@@ -1,0 +1,21 @@
+{
+  "bgcolour": "#6495ED",
+  "name": "Robert Gober",
+  "image": "Sinks Install 2.jpg",
+  "imagesize": "200px",
+  "caption": "Untitled, 1992, mixed media, Collection of the Artist",
+  "birthDate": {
+    "date": "1954-09-12T07:00:00.000Z",
+    "age": 63
+  },
+  "birthPlace": "Wallingford, Connecticut",
+  "nationality": "United States",
+  "field": "Sculpture",
+  "training": [
+    "Middlebury College",
+    "Vermont",
+    "Tyler School of Art"
+  ],
+  "summary": "Robert Gober (born September 12, 1954) is an American sculptor. His work is often related to domestic and familiar objects such as sinks, doors, and legs.",
+  "sign": "Virgo"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Paik Nam June",
+  "image": "Portrait of Nam June Paik-by Lim Young-kyun-1981.jpg",
+  "caption": "Nam June Paik in New York City, 1983. Photo by Lim Young-kyun",
+  "birthDate": {
+    "date": "1932-07-20T07:00:00.000Z",
+    "age": 85
+  },
+  "birthPlace": "Seoul",
+  "deathDate": {
+    "date": "2006-01-29T08:00:00.000Z",
+    "age": 73
+  },
+  "deathPlace": [
+    "Miami",
+    "Florida",
+    "United States"
+  ],
+  "nationality": "Korean",
+  "field": "nowrap",
+  "training": "University of Tokyo",
+  "movement": "Fluxus",
+  "spouse": "Shigeko Kubota",
+  "module": "Infobox Korean name",
+  "hangul": "linktext",
+  "hanja": "linktext",
+  "rr": "Baek Namjun",
+  "mr": "Paek Namjun",
+  "child": "yes",
+  "summary": "Nam June Paik (Korean: 백남준, July 20, 1932 – January 29, 2006) was a Korean American artist. He worked with a variety of media and is considered to be the founder of video art. He is credited with an early usage (1974) of the term \"electronic super highway\" in application to telecommunications.",
+  "sign": "Cancer"
+}

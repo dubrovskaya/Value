@@ -1,0 +1,43 @@
+{
+  "name": "Sir Anthony Caro",
+  "image": "Anthony Caro balanced.png",
+  "birthName": "Anthony Alfred Caro",
+  "birthDate": {
+    "date": "1924-03-08T08:00:00.000Z",
+    "age": 93
+  },
+  "birthPlace": "New Malden",
+  "deathDate": {
+    "date": "2013-10-23T07:00:00.000Z",
+    "age": 89
+  },
+  "deathPlace": "London, England",
+  "nationality": "British",
+  "field": [
+    "Sculpture",
+    "drawing"
+  ],
+  "almaMater": "Christ's College, Cambridge",
+  "training": "University of Westminster",
+  "movement": [
+    "abstract art",
+    "modernism"
+  ],
+  "works": "Twenty Four Hours (sculpture)",
+  "influencedBy": [
+    "Henry Moore",
+    "David Smith (sculptor)"
+  ],
+  "influenced": [
+    "Phillip King (artist)",
+    "Isaac Witkin",
+    "Tim Scott (artist)",
+    "William G. Tucker",
+    "Peter Hide"
+  ],
+  "awards": "CBE (1969),Knighthood (1987),Order of Merit (2000)",
+  "spouse": "marriage",
+  "website": "url",
+  "summary": "Sir Anthony Alfred Caro  (8 March 1924 – 23 October 2013) was an English abstract sculptor whose work is characterised by assemblages of metal using 'found' industrial objects. His style was of the modernist school, having worked with Henry Moore early in his career. He was lauded as the greatest British sculptor of his generation.",
+  "sign": "Pisces"
+}

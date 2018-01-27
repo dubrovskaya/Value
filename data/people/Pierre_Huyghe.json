@@ -1,0 +1,14 @@
+{
+  "name": "Pierre Huyghe",
+  "birthDate": {
+    "date": "1962-09-11T07:00:00.000Z",
+    "age": 55
+  },
+  "birthPlace": "Paris",
+  "nationality": "French",
+  "field": "Contemporary Art",
+  "training": "École Nationale Supérieure des Arts Décoratifs",
+  "awards": "German Academic Exchange Service",
+  "summary": "Pierre Huyghe (born 11 September 1962) is a French artist who works in a variety of media from films and sculptures to public interventions and living systems.",
+  "sign": "Virgo"
+}

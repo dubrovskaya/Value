@@ -1,0 +1,14 @@
+{
+  "bgcolour": "#6495ED",
+  "name": "Jim Hodges",
+  "birthDate": {
+    "date": "1957-10-16T07:00:00.000Z",
+    "age": 60
+  },
+  "birthPlace": "Spokane",
+  "nationality": "American",
+  "field": "Sculpture",
+  "works": "\"Don't Be Afraid\", \"look and see\"",
+  "summary": "Jim Hodges (born October 16, 1957) is a New York-based installation artist. He is known for his multi-media sculptures and collages that involve delicate artificial flowers, mirrors, chains as spiderwebs and cut up jeans.",
+  "sign": "Libra"
+}

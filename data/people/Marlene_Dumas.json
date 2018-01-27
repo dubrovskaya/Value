@@ -1,0 +1,19 @@
+{
+  "name": "Marlene Dumas",
+  "image": "Marlene_Dumas_-_2008_-_Self_Portrait_at_Noon.jpg",
+  "caption": "Self Portrait at Noon, 2008",
+  "birthDate": {
+    "date": "1953-08-03T07:00:00.000Z",
+    "age": 64
+  },
+  "birthPlace": "Cape Town",
+  "field": "Painting",
+  "training": [
+    "Michaelis School of Fine Art",
+    "de Ateliers"
+  ],
+  "awards": "Rolf Schock Prizes",
+  "website": "http://www.marlenedumas.nl/",
+  "summary": "Marlene Dumas (born 3 August 1953) is a South African born artist and painter who lives and works in Amsterdam, the Netherlands. In the past Dumas produced paintings, collages, drawings, prints and installations. She now works mainly with oil on canvas and ink and watercolor on paper. Almost all of Marlene Dumas's paintings can be traced back to a photographic source, either collected from the media or taken by the artist herself.",
+  "sign": "Leo"
+}

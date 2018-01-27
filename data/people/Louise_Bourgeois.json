@@ -1,0 +1,39 @@
+{
+  "bgcolour": "#6495ED",
+  "name": "Louise Bourgeois",
+  "image": "Louise Bourgeois.jpg",
+  "imagesize": "300px",
+  "birthName": "Louise Joséphine Bourgeois",
+  "birthDate": {
+    "date": "1911-12-25T08:00:00.000Z",
+    "age": 106
+  },
+  "birthPlace": "Paris",
+  "deathDate": {
+    "date": "2010-05-31T07:00:00.000Z",
+    "age": 98
+  },
+  "deathPlace": "Manhattan",
+  "nationality": "French American",
+  "field": [
+    "sculpture",
+    "installation art",
+    "painting",
+    "printmaking"
+  ],
+  "training": [
+    "Sorbonne",
+    "Académie de la Grande Chaumière",
+    "École du Louvre",
+    "École des Beaux-Arts",
+    "latore des labrimos"
+  ],
+  "movement": [
+    "Surrealism",
+    "Feminist art"
+  ],
+  "works": "Maman (sculpture)",
+  "awards": "Praemium Imperiale",
+  "summary": "Louise Joséphine Bourgeois (French: [lwiz buʁʒwa] ( listen); 25 December 1911 – 31 May 2010) was a French-American artist. Best known for her large-scale sculpture and installation art, Bourgeois was also a prolific painter and printmaker. She explored a variety of themes over the course of her long career including domesticity and the family, sexuality and the body, as well as death and the subconscious. Although Bourgeois exhibited with the Abstract Expressionists and her work has much in common with Surrealism and Feminist art, she was not formally affiliated with a particular artistic movement.",
+  "sign": "Capricorn"
+}

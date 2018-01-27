@@ -1,0 +1,25 @@
+{
+  "bgcolour": "#C0C0C0",
+  "name": "Jasper Johns",
+  "image": "Three Flags.jpg",
+  "imagesize": "250px",
+  "caption": "Three Flags",
+  "birthName": "Jasper Johns, Jr.",
+  "birthDate": {
+    "date": "1930-05-15T07:00:00.000Z",
+    "age": 87
+  },
+  "birthPlace": "Augusta, Georgia",
+  "nationality": "American",
+  "field": "printmaking",
+  "movement": [
+    "Abstract expressionism",
+    "Neo-Dada",
+    "pop art"
+  ],
+  "works": "Flags, Numbers, Maps, Stenciled Words",
+  "influenced": "Pop Art",
+  "awards": "Venice Biennial",
+  "summary": "Jasper Johns (born May 15, 1930) is an American painter, sculptor and printmaker associated with Abstract expressionism, Neo-Dada, and Pop art.",
+  "sign": "Taurus"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Guy Bleus",
+  "birthName": "Guy Bleus",
+  "birthDate": {
+    "date": "1950-10-23T07:00:00.000Z",
+    "age": 67
+  },
+  "birthPlace": "Hasselt",
+  "occupation": "artist",
+  "website": "http://www.mailart.be/",
+  "summary": "Guy Bleus (born October 23, 1950 in Hasselt, Belgium) is an artist associated with the mail art movement and performance art.\nHis work covers different areas, including administration (which he calls Artministration), postal and olfactory communication.",
+  "sign": "Scorpio"
+}
